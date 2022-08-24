@@ -1,0 +1,3002 @@
+[
+    {
+        "codigo": "5073",
+        "descricao": "FISICO-QUIMICO"
+    },
+    {
+        "codigo": "5201",
+        "descricao": "TRADUTOR"
+    },
+    {
+        "codigo": "101",
+        "descricao": "ENGENHEIRO"
+    },
+    {
+        "codigo": "102",
+        "descricao": "ARQUITETO"
+    },
+    {
+        "codigo": "103",
+        "descricao": "AGRONOMO"
+    },
+    {
+        "codigo": "104",
+        "descricao": "QUIMICO"
+    },
+    {
+        "codigo": "105",
+        "descricao": "DESENHISTA INDUSTRIAL"
+    },
+    {
+        "codigo": "106",
+        "descricao": "FISICO"
+    },
+    {
+        "codigo": "107",
+        "descricao": "GEOLOGO"
+    },
+    {
+        "codigo": "108",
+        "descricao": "TECNOLOGO"
+    },
+    {
+        "codigo": "111",
+        "descricao": "MEDICO"
+    },
+    {
+        "codigo": "112",
+        "descricao": "VETERINARIO"
+    },
+    {
+        "codigo": "113",
+        "descricao": "ENFERMEIRO"
+    },
+    {
+        "codigo": "114",
+        "descricao": "FISIOTERAPEUTA E TERAPEUTA"
+    },
+    {
+        "codigo": "115",
+        "descricao": "ODONTOLOGO"
+    },
+    {
+        "codigo": "116",
+        "descricao": "BIOLOGO E BIOMEDICO"
+    },
+    {
+        "codigo": "117",
+        "descricao": "FARMACEUTICO"
+    },
+    {
+        "codigo": "118",
+        "descricao": "FONOAUDIOLOGO"
+    },
+    {
+        "codigo": "121",
+        "descricao": "ECONOMISTA"
+    },
+    {
+        "codigo": "122",
+        "descricao": "ESTATISTICO"
+    },
+    {
+        "codigo": "124",
+        "descricao": "CONTADOR"
+    },
+    {
+        "codigo": "126",
+        "descricao": "ANALISTA DE SISTEMA"
+    },
+    {
+        "codigo": "127",
+        "descricao": "GEOGRAFO"
+    },
+    {
+        "codigo": "128",
+        "descricao": "ASTRONOMO E METEOROLOGISTA"
+    },
+    {
+        "codigo": "131",
+        "descricao": "ADVOGADO"
+    },
+    {
+        "codigo": "132",
+        "descricao": "PSICOLOGO"
+    },
+    {
+        "codigo": "133",
+        "descricao": "SOCIOLOGO"
+    },
+    {
+        "codigo": "134",
+        "descricao": "ASSISTENTE SOCIAL"
+    },
+    {
+        "codigo": "135",
+        "descricao": "BIBLIOTECARIO,ARQUIVISTA,ETC.."
+    },
+    {
+        "codigo": "136",
+        "descricao": "COMUNICOLOGO"
+    },
+    {
+        "codigo": "137",
+        "descricao": "RELACOES PUBLICAS"
+    },
+    {
+        "codigo": "138",
+        "descricao": "PROFISSIONAL D/LETRAS E ARTES"
+    },
+    {
+        "codigo": "142",
+        "descricao": "PROFESSOR DE ENSINO SUPERIOR"
+    },
+    {
+        "codigo": "143",
+        "descricao": "PROF.D/ENSINO D/1O.E 2O.GRAUS"
+    },
+    {
+        "codigo": "144",
+        "descricao": "DIRETOR ESTABELECIM.DE ENSINO"
+    },
+    {
+        "codigo": "145",
+        "descricao": "TRAB.NIVEL SUP.LIGADOS ENSINO"
+    },
+    {
+        "codigo": "151",
+        "descricao": "TECNICO D/CONTABIL.E ESTATIST."
+    },
+    {
+        "codigo": "152",
+        "descricao": "TECNICO DE BIOLOGIA"
+    },
+    {
+        "codigo": "153",
+        "descricao": "TECNICO AGRONOMIA, AGRIMENSURA"
+    },
+    {
+        "codigo": "154",
+        "descricao": "TECNICO DE QUIMICA"
+    },
+    {
+        "codigo": "155",
+        "descricao": "TECNICO DE MECANICA"
+    },
+    {
+        "codigo": "156",
+        "descricao": "TECNI.D/ELETRI.ELETRO.TELECOM."
+    },
+    {
+        "codigo": "157",
+        "descricao": "TECNI.D/LABORATORIO E RAIOS X"
+    },
+    {
+        "codigo": "161",
+        "descricao": "EMPRESARIO E PRODUT.ESPETACULO"
+    },
+    {
+        "codigo": "162",
+        "descricao": "ATOR E DIRETOR D/ESPETACULOS"
+    },
+    {
+        "codigo": "163",
+        "descricao": "CANTOR E COMPOSITOR"
+    },
+    {
+        "codigo": "164",
+        "descricao": "MUSICO"
+    },
+    {
+        "codigo": "165",
+        "descricao": "COREOGRAFO E BAILARINO"
+    },
+    {
+        "codigo": "166",
+        "descricao": "LOCUTOR E COMENTAR.D/RADIO,TV"
+    },
+    {
+        "codigo": "167",
+        "descricao": "OPERADOR D/CAMERA D/CINEMA,TV"
+    },
+    {
+        "codigo": "168",
+        "descricao": "ATLETA PROFISS.TECNICO DESPOR."
+    },
+    {
+        "codigo": "171",
+        "descricao": "JORNALISTA"
+    },
+    {
+        "codigo": "172",
+        "descricao": "PUBLICITARIO"
+    },
+    {
+        "codigo": "182",
+        "descricao": "COMISSARIO DE BORDO"
+    },
+    {
+        "codigo": "183",
+        "descricao": "COMANDANTE DE EMBARCACOES"
+    },
+    {
+        "codigo": "191",
+        "descricao": "ESCULTOR,PINTOR E ASSEMELHADOS"
+    },
+    {
+        "codigo": "192",
+        "descricao": "DESENHISTA COMERCIAL"
+    },
+    {
+        "codigo": "193",
+        "descricao": "DECORADOR"
+    },
+    {
+        "codigo": "201",
+        "descricao": "MEMBROS DO PODER LEGISLATIVO"
+    },
+    {
+        "codigo": "203",
+        "descricao": "MEMBROS DO PODER EXECUTIVO"
+    },
+    {
+        "codigo": "205",
+        "descricao": "MEMBROS DO PODER JUDICIARIO"
+    },
+    {
+        "codigo": "211",
+        "descricao": "PROCURADOR E ASSEMELHADOS"
+    },
+    {
+        "codigo": "212",
+        "descricao": "DIPLOMATA"
+    },
+    {
+        "codigo": "214",
+        "descricao": "DELEGADO DE POLICIA"
+    },
+    {
+        "codigo": "216",
+        "descricao": "OFICIAIS DAS FORCAS ARMADAS(EXERCITO, MARINHA E AERONAUTICA) E FORCAS AUXILIARES"
+    },
+    {
+        "codigo": "292",
+        "descricao": "AGENTE ADMINISTRATIVO"
+    },
+    {
+        "codigo": "293",
+        "descricao": "SERVENTUARIO DE JUSTICA"
+    },
+    {
+        "codigo": "294",
+        "descricao": "TABELIAO"
+    },
+    {
+        "codigo": "295",
+        "descricao": "MILITAR EM GERAL"
+    },
+    {
+        "codigo": "301",
+        "descricao": "DIRETOR DE EMPRESAS"
+    },
+    {
+        "codigo": "303",
+        "descricao": "GERENTE"
+    },
+    {
+        "codigo": "391",
+        "descricao": "CHEFE INTERMEDIARIO"
+    },
+    {
+        "codigo": "392",
+        "descricao": "TRABALHADOR D/SERVICOS CONTAB."
+    },
+    {
+        "codigo": "393",
+        "descricao": "SECRETARIO,ESTENOGRAFO,DATILO."
+    },
+    {
+        "codigo": "394",
+        "descricao": "AUXILIAR D/ESCRITORIO E ASSEM."
+    },
+    {
+        "codigo": "395",
+        "descricao": "BANCARIO E ECONOMIARIO"
+    },
+    {
+        "codigo": "396",
+        "descricao": "SECURITARIO"
+    },
+    {
+        "codigo": "401",
+        "descricao": "SUPERVIS.INSPETOR,AGEN.COMPRAS"
+    },
+    {
+        "codigo": "402",
+        "descricao": "VENDEDOR PRACISTA,REPRES.COMER"
+    },
+    {
+        "codigo": "403",
+        "descricao": "CORRETOR D/IMOVEIS,SEGUROS,TIT"
+    },
+    {
+        "codigo": "404",
+        "descricao": "LEILOEIRO,AVALIADOR,ASSEMELH."
+    },
+    {
+        "codigo": "405",
+        "descricao": "AGENCIADOR DE PROPAGANDA"
+    },
+    {
+        "codigo": "411",
+        "descricao": "VENDEDORCOMERCI.VAREJIS.ATACA"
+    },
+    {
+        "codigo": "412",
+        "descricao": "JORNALEIRO"
+    },
+    {
+        "codigo": "413",
+        "descricao": "FEIRANTE"
+    },
+    {
+        "codigo": "491",
+        "descricao": "DEMONSTRADOR"
+    },
+    {
+        "codigo": "492",
+        "descricao": "MODELO DE MODAS"
+    },
+    {
+        "codigo": "501",
+        "descricao": "PORTEIRO D/EDIFICIO,ASCENSORI."
+    },
+    {
+        "codigo": "511",
+        "descricao": "CABELEIREIRO,BARBEIRO,MANICURE"
+    },
+    {
+        "codigo": "521",
+        "descricao": "GOVERNANTA D/HOTEL,CAMAREIRO.."
+    },
+    {
+        "codigo": "531",
+        "descricao": "MOTORIS.VEICUL.TRANSP.PASSAGE."
+    },
+    {
+        "codigo": "532",
+        "descricao": "MOTORIS.VEICUL.TRANSP.DE CARGA"
+    },
+    {
+        "codigo": "533",
+        "descricao": "CONTRAMESTRE DE EMBARCACOES"
+    },
+    {
+        "codigo": "534",
+        "descricao": "MARINHEIRO E ASSEMELHADOS"
+    },
+    {
+        "codigo": "535",
+        "descricao": "MAQUINISTA E FOGUISTA D/EMBAR."
+    },
+    {
+        "codigo": "541",
+        "descricao": "MECANICO D/MANUTEN.VEICUL.AUTO"
+    },
+    {
+        "codigo": "542",
+        "descricao": "ELETRICIS.MANU.VEIC.AUTO.ELET."
+    },
+    {
+        "codigo": "543",
+        "descricao": "LANTERN.E PINTOR VEICU.METALI."
+    },
+    {
+        "codigo": "591",
+        "descricao": "ALFAIATE"
+    },
+    {
+        "codigo": "593",
+        "descricao": "DESPACHANTE,INCLUSIVE ADUANEI."
+    },
+    {
+        "codigo": "594",
+        "descricao": "AGENTE D/VIAGEM E GUIA TURISM."
+    },
+    {
+        "codigo": "595",
+        "descricao": "AGEN.D/SERV.FUNERARIOS EMBALS."
+    },
+    {
+        "codigo": "596",
+        "descricao": "AUXILIAR DE LABORATORIO"
+    },
+    {
+        "codigo": "597",
+        "descricao": "ESTIVADOR,CARREG.EMBAL.ASSEME."
+    },
+    {
+        "codigo": "598",
+        "descricao": "EMPREGADO DOMESTICO"
+    },
+    {
+        "codigo": "601",
+        "descricao": "TRABALHADOR AGRICOLA"
+    },
+    {
+        "codigo": "602",
+        "descricao": "TRABALHADOR DA PECUARIA"
+    },
+    {
+        "codigo": "603",
+        "descricao": "TRABALHADOR FLORESTAL"
+    },
+    {
+        "codigo": "604",
+        "descricao": "TRABALHADOR DA PESCA"
+    },
+    {
+        "codigo": "605",
+        "descricao": "GARIMPEIRO"
+    },
+    {
+        "codigo": "702",
+        "descricao": "MECANIC.D/MANUTEN.MONTAD.ETC."
+    },
+    {
+        "codigo": "703",
+        "descricao": "ELETRICISTA E ASSEMELHADOS"
+    },
+    {
+        "codigo": "704",
+        "descricao": "TRAB.D/INSTAL.D/PROCES.QUIMICO"
+    },
+    {
+        "codigo": "705",
+        "descricao": "TRABALH.D/FABRICACAO DE ROUPAS"
+    },
+    {
+        "codigo": "706",
+        "descricao": "TRAB.D/TRATAM.FUMO,FABR.CIGAR."
+    },
+    {
+        "codigo": "707",
+        "descricao": "TRAB.METALURGICO E SIDERURGIC."
+    },
+    {
+        "codigo": "708",
+        "descricao": "TRABALHAD.D/USINAGEM D/METAIS"
+    },
+    {
+        "codigo": "709",
+        "descricao": "TRABALHADOR D/CONSTRUCAO CIVIL"
+    },
+    {
+        "codigo": "710",
+        "descricao": "TRAB.D/FABR.E PREPARA.D/ALIM."
+    },
+    {
+        "codigo": "711",
+        "descricao": "TRABALHADOR DE ARTES GRAFICAS"
+    },
+    {
+        "codigo": "712",
+        "descricao": "TRAB.FABR.DE PRODUTOS TEXTEIS"
+    },
+    {
+        "codigo": "713",
+        "descricao": "TRAB.FABR.D/ ARTEFATOS MADEIRA"
+    },
+    {
+        "codigo": "714",
+        "descricao": "TRAB.FABRIC.D/PAPEL E PAPELAO"
+    },
+    {
+        "codigo": "715",
+        "descricao": "TRAB.FABR.CALCADOS ARTEF.COURO"
+    },
+    {
+        "codigo": "716",
+        "descricao": "TRAB.FABR.PROD.BORRACHA,PLAST."
+    },
+    {
+        "codigo": "717",
+        "descricao": "JOALHEIROS E OURIVES"
+    },
+    {
+        "codigo": "901",
+        "descricao": "PROP.ESTAB.AGRICOLA,PECU.FLOR."
+    },
+    {
+        "codigo": "902",
+        "descricao": "PROPRIET.ESTABELECIM.COMERCIAL"
+    },
+    {
+        "codigo": "903",
+        "descricao": "PROPRIET.ESTABELECI.INDUSTRIAL"
+    },
+    {
+        "codigo": "904",
+        "descricao": "PROP.ESTAB.PRESTACAO D/SERVICO"
+    },
+    {
+        "codigo": "905",
+        "descricao": "PROPRIETARIO DE MICROEMPRESA"
+    },
+    {
+        "codigo": "906",
+        "descricao": "PROP.D/IMOVEL,REC.REND.ALUGUEL"
+    },
+    {
+        "codigo": "907",
+        "descricao": "CAPITALISTA,REC.REND.APLIC.CAP"
+    },
+    {
+        "codigo": "910",
+        "descricao": "SACERDOTE/MEMB.ORDENS SEIT.REL"
+    },
+    {
+        "codigo": "921",
+        "descricao": "MILITAR REFORMADO"
+    },
+    {
+        "codigo": "922",
+        "descricao": "FUNCION.PUBLICO CIVIL APOSENT."
+    },
+    {
+        "codigo": "923",
+        "descricao": "APOSENTADO"
+    },
+    {
+        "codigo": "924",
+        "descricao": "PENSIONISTA"
+    },
+    {
+        "codigo": "949",
+        "descricao": "ESPOLIO"
+    },
+    {
+        "codigo": "5001",
+        "descricao": "ENGENHEIRO AERONAUTICO"
+    },
+    {
+        "codigo": "5003",
+        "descricao": "ENGENHEIRO CIVIL"
+    },
+    {
+        "codigo": "5004",
+        "descricao": "ENGENHEIRO ELETRICISTA"
+    },
+    {
+        "codigo": "5005",
+        "descricao": "ENGENHEIRO ELETRONICO"
+    },
+    {
+        "codigo": "5006",
+        "descricao": "ENGENHEIRO INDUSTRIAL"
+    },
+    {
+        "codigo": "5007",
+        "descricao": "ENGENHEIRO MECANICO"
+    },
+    {
+        "codigo": "5008",
+        "descricao": "ENGENHEIRO METALURGICO"
+    },
+    {
+        "codigo": "5009",
+        "descricao": "ENGENHEIRO NAVAL"
+    },
+    {
+        "codigo": "5010",
+        "descricao": "ENGENHEIRO QUIMICO"
+    },
+    {
+        "codigo": "5011",
+        "descricao": "ENGENHEIRO DE SEG. DO TRABALHO"
+    },
+    {
+        "codigo": "5022",
+        "descricao": "ADMINISTRADOR DE EMPRESA"
+    },
+    {
+        "codigo": "5026",
+        "descricao": "ATUARIO"
+    },
+    {
+        "codigo": "5027",
+        "descricao": "AUDITOR"
+    },
+    {
+        "codigo": "5041",
+        "descricao": "COMISSARIO DE AVARIAS"
+    },
+    {
+        "codigo": "5101",
+        "descricao": "INVESTIGADOR"
+    },
+    {
+        "codigo": "5102",
+        "descricao": "INVEST. ACIDENTES AERONAUTICOS"
+    },
+    {
+        "codigo": "5172",
+        "descricao": "QUIMICO INDUSTRIAL"
+    },
+    {
+        "codigo": "5191",
+        "descricao": "SINDICANTE"
+    },
+    {
+        "codigo": "5202",
+        "descricao": "REGULADOR INTERN. DE SINISTROS"
+    },
+    {
+        "codigo": "5203",
+        "descricao": "RESSARCIDOR"
+    },
+    {
+        "codigo": "5204",
+        "descricao": "INSPETOR DE RISCO"
+    },
+    {
+        "codigo": "5205",
+        "descricao": "DO LAR, DONA DE CASA"
+    },
+    {
+        "codigo": "5206",
+        "descricao": "ADESTRADOR"
+    },
+    {
+        "codigo": "5207",
+        "descricao": "ACOUGUEIRO"
+    },
+    {
+        "codigo": "5208",
+        "descricao": "CARPINTEIRO"
+    },
+    {
+        "codigo": "5209",
+        "descricao": "LAMINADOR"
+    },
+    {
+        "codigo": "5210",
+        "descricao": "VIDRACEIRO"
+    },
+    {
+        "codigo": "5211",
+        "descricao": "SERRALHEIRO"
+    },
+    {
+        "codigo": "5212",
+        "descricao": "ENCANADOR"
+    },
+    {
+        "codigo": "5213",
+        "descricao": "MARCENEIRO"
+    },
+    {
+        "codigo": "5215",
+        "descricao": "PRATICANTE DE ESGRIMA"
+    },
+    {
+        "codigo": "5216",
+        "descricao": "PEDREIRO,PINTOR"
+    },
+    {
+        "codigo": "5217",
+        "descricao": "ACROBATA"
+    },
+    {
+        "codigo": "5219",
+        "descricao": "TECNICO DE SEGURANCA"
+    },
+    {
+        "codigo": "5221",
+        "descricao": "AGENTE"
+    },
+    {
+        "codigo": "5222",
+        "descricao": "INSPETOR"
+    },
+    {
+        "codigo": "5224",
+        "descricao": "MECANICO DE MOTORES DE AERONAVES E DE EMBARCACOES"
+    },
+    {
+        "codigo": "5227",
+        "descricao": "PRAT. INSTR. DE ULTRALEVE"
+    },
+    {
+        "codigo": "5228",
+        "descricao": "PRAT. INSTR. DE BALAO"
+    },
+    {
+        "codigo": "5229",
+        "descricao": "PRAT. INSTR. DE ALPINISMO"
+    },
+    {
+        "codigo": "5239",
+        "descricao": "BOMBEIRO"
+    },
+    {
+        "codigo": "5243",
+        "descricao": "TRABALHADOR SUBST.TOXICAS"
+    },
+    {
+        "codigo": "5245",
+        "descricao": "MINERADOR"
+    },
+    {
+        "codigo": "5248",
+        "descricao": "PRAT. INSTR. DE PARAPENT"
+    },
+    {
+        "codigo": "61",
+        "descricao": "INSPETOR DE SEGURANCA"
+    },
+    {
+        "codigo": "15",
+        "descricao": "MENOR"
+    },
+    {
+        "codigo": "60",
+        "descricao": "ASSISTENTE EM GERAL"
+    },
+    {
+        "codigo": "57",
+        "descricao": "PROGRAMADOR"
+    },
+    {
+        "codigo": "52",
+        "descricao": "MASSAGISTA"
+    },
+    {
+        "codigo": "29",
+        "descricao": "PRATICANTE DE MONTAINBIKE AMADOR OU PROFISSIONAL, AINDA QUE INSTRUTOR"
+    },
+    {
+        "codigo": "63",
+        "descricao": "MATEMATICO"
+    },
+    {
+        "codigo": "44",
+        "descricao": "COZINHEIRO"
+    },
+    {
+        "codigo": "54",
+        "descricao": "OPERADOR DE MAQUINAS INDUSTRIAIS"
+    },
+    {
+        "codigo": "5",
+        "descricao": "CACADORES EM GERAL"
+    },
+    {
+        "codigo": "62",
+        "descricao": "JUIZES/ MAGISTRADOS"
+    },
+    {
+        "codigo": "43",
+        "descricao": "COSTUREIRA"
+    },
+    {
+        "codigo": "42",
+        "descricao": "CAIXA"
+    },
+    {
+        "codigo": "11",
+        "descricao": "ESTUDANTE UNIVERSITARIO"
+    },
+    {
+        "codigo": "51",
+        "descricao": "MANICURE E PEDICURE"
+    },
+    {
+        "codigo": "2",
+        "descricao": "ARTISTA DE CIRCO EM GERAL"
+    },
+    {
+        "codigo": "49",
+        "descricao": "ESTETICISTA"
+    },
+    {
+        "codigo": "59",
+        "descricao": "TECNICO DE INFORMATICA"
+    },
+    {
+        "codigo": "3",
+        "descricao": "ARQUEOLOGO"
+    },
+    {
+        "codigo": "47",
+        "descricao": "ENTREGADOR"
+    },
+    {
+        "codigo": "40",
+        "descricao": "ARQUIVISTA"
+    },
+    {
+        "codigo": "18",
+        "descricao": "MOTORISTA DE VEICULO DE TRANSPORTE DE CARGA INFLAMAVEL E QUIMICA"
+    },
+    {
+        "codigo": "41",
+        "descricao": "AUXILIAR ADMINISTRATIVO"
+    },
+    {
+        "codigo": "64",
+        "descricao": "TECNICO DE ENFERMAGEM"
+    },
+    {
+        "codigo": "12",
+        "descricao": "INSTRUTORES DE SEGURANCA"
+    },
+    {
+        "codigo": "21",
+        "descricao": "PERITO CRIMINAL"
+    },
+    {
+        "codigo": "14",
+        "descricao": "LUTADOR E PUGILISTA, PROFISSIONAL OU AMADOR, AINDA QUE INSTRUTOR, NAS MODALIDADES (BOXE, JUDO, JIU-JITSU)"
+    },
+    {
+        "codigo": "16",
+        "descricao": "MERGULHADOR PROFISSIONAL"
+    },
+    {
+        "codigo": "7",
+        "descricao": "CORRESPONDENTE DE GUERRA"
+    },
+    {
+        "codigo": "37",
+        "descricao": "TRABALHADOR E OPERADOR DE MOTO SERRA, SERRA ELETRICA E ASSEMELHADOS"
+    },
+    {
+        "codigo": "39",
+        "descricao": "ZOOTECNISTA"
+    },
+    {
+        "codigo": "22",
+        "descricao": "PETROLEIRO QUE EXERCE ATIVIDADE NA PRODUCAO DE REFINO DE PETROLEO"
+    },
+    {
+        "codigo": "10",
+        "descricao": "ESTUDANTE DE 1 E 2 GRAU"
+    },
+    {
+        "codigo": "48",
+        "descricao": "ESTAGIARIO"
+    },
+    {
+        "codigo": "8",
+        "descricao": "DETETIVE"
+    },
+    {
+        "codigo": "55",
+        "descricao": "NUTRICIONISTA"
+    },
+    {
+        "codigo": "56",
+        "descricao": "PROMOTOR DE JUSTICA"
+    },
+    {
+        "codigo": "58",
+        "descricao": "REPRESENTANTE COMERCIAL"
+    },
+    {
+        "codigo": "50",
+        "descricao": "GARCOM E MATRIE"
+    },
+    {
+        "codigo": "9",
+        "descricao": "ESPELEOLOGISTA"
+    },
+    {
+        "codigo": "5231",
+        "descricao": "SURFISTA"
+    },
+    {
+        "codigo": "5232",
+        "descricao": "PRATICANTE DE RAFTING"
+    },
+    {
+        "codigo": "5235",
+        "descricao": "PRATIC.ESPORTES VEIC.E EMBARC."
+    },
+    {
+        "codigo": "36",
+        "descricao": "TRABALHADOR DE QUALQUER ATIVIDADE REFERENTE A GAS INDUSTRIAL"
+    },
+    {
+        "codigo": "10034",
+        "descricao": "ADESTRADOR CACHORRO"
+    },
+    {
+        "codigo": "10035",
+        "descricao": "ADESTRADOR CAVALO"
+    },
+    {
+        "codigo": "10036",
+        "descricao": "ATIVIDADES RELACIONADAS A CANA DE ACUCAR"
+    },
+    {
+        "codigo": "10037",
+        "descricao": "BIOLOGOS-MARINHOS"
+    },
+    {
+        "codigo": "10039",
+        "descricao": "COMERCIANTE/COMERCIARIO"
+    },
+    {
+        "codigo": "10040",
+        "descricao": "COQUERIAS"
+    },
+    {
+        "codigo": "10041",
+        "descricao": "CROSS COUNTRY"
+    },
+    {
+        "codigo": "10042",
+        "descricao": "DOMADORES ANIMAIS DOMESTICOS"
+    },
+    {
+        "codigo": "10043",
+        "descricao": "DOMADORES ANIMAIS SELVAGENS"
+    },
+    {
+        "codigo": "10044",
+        "descricao": "ELABORACAO DE COMBUSTIVEIS NUCLEARES"
+    },
+    {
+        "codigo": "10045",
+        "descricao": "ELETRICISTAS BAIXA TENSAO"
+    },
+    {
+        "codigo": "10046",
+        "descricao": "ESCAFANDRISTAS"
+    },
+    {
+        "codigo": "10047",
+        "descricao": "ESPECIOLOGISTA"
+    },
+    {
+        "codigo": "10048",
+        "descricao": "FABRICACAO DE ARMAS DE FOGO E MUNICOES"
+    },
+    {
+        "codigo": "10049",
+        "descricao": "FABRICACAO DE GASES NATURAIS"
+    },
+    {
+        "codigo": "10050",
+        "descricao": "FABRICACAO DE INTERMEDIARIOS PARA FERTILIZANTES"
+    },
+    {
+        "codigo": "10051",
+        "descricao": "FORMULAS EM GERAL (FORMULA 1, INDY, LIGHT, MUNDIAL, ETC.)"
+    },
+    {
+        "codigo": "10052",
+        "descricao": "FUNCIONARIOS PUBLICOS OU PRIVADOS, ATUA EM DELEGACIAS OU PRESIDIOS"
+    },
+    {
+        "codigo": "10053",
+        "descricao": "GUARDAS MUNICIPAIS"
+    },
+    {
+        "codigo": "10054",
+        "descricao": "INSTALADORES OU COLOCADOR DE ANTENAS"
+    },
+    {
+        "codigo": "10055",
+        "descricao": "KART"
+    },
+    {
+        "codigo": "10056",
+        "descricao": "LANCHAS, JETSKI (PRAZER OU COMPETICAO)"
+    },
+    {
+        "codigo": "10057",
+        "descricao": "LIMPEZA URBANA E ESGOTO E ATIVIDADES CONEXAS"
+    },
+    {
+        "codigo": "10058",
+        "descricao": "LUTADOR DE VALE TUDO"
+    },
+    {
+        "codigo": "10059",
+        "descricao": "MECANICA"
+    },
+    {
+        "codigo": "10060",
+        "descricao": "MERGULHADOR COM EQUIP. DE RESPIRACAO ATE 20 MT"
+    },
+    {
+        "codigo": "10061",
+        "descricao": "MERGULHADOR COM EQUIP. DE RESPIRACAO ATE 21-40 MT"
+    },
+    {
+        "codigo": "10062",
+        "descricao": "MERGULHADOR COM EQUIP. DE RESPIRACAO ATE 41-60 MT"
+    },
+    {
+        "codigo": "10063",
+        "descricao": "MERGULHADOR COM EQUIP. DE RESPIRACAO ATE 61-80 MT"
+    },
+    {
+        "codigo": "10064",
+        "descricao": "MERGULHADOR COM EQUIP. DE RESPIRACAO ACIMA 80 MT"
+    },
+    {
+        "codigo": "10065",
+        "descricao": "MERGULHADORES - SEM EQUIPAMENTO DE RESPIRACAO"
+    },
+    {
+        "codigo": "10066",
+        "descricao": "METALURGICOS (EXCETO FUNCIONARIOS ADMINISTRADORES)"
+    },
+    {
+        "codigo": "10067",
+        "descricao": "METALURGIA DO PO"
+    },
+    {
+        "codigo": "10068",
+        "descricao": "MONTAGEM DE TENDA"
+    },
+    {
+        "codigo": "10069",
+        "descricao": "MOTO VELOCIDADE"
+    },
+    {
+        "codigo": "10070",
+        "descricao": "MOTOCROSS"
+    },
+    {
+        "codigo": "10072",
+        "descricao": "OCEANOGRAFOS"
+    },
+    {
+        "codigo": "10073",
+        "descricao": "OPERADORES DE MOTO-SERRA, SERRA ELETRICA E ASSEMELHADOS"
+    },
+    {
+        "codigo": "10074",
+        "descricao": "PECUARISTA SUINOS"
+    },
+    {
+        "codigo": "10075",
+        "descricao": "PECUARISTA DEMAIS"
+    },
+    {
+        "codigo": "10076",
+        "descricao": "PERITOS POLICIAIS"
+    },
+    {
+        "codigo": "10077",
+        "descricao": "PESCADORES - BARCOS < 24 MTS DE COMP."
+    },
+    {
+        "codigo": "10078",
+        "descricao": "PESCADORES - BARCOS < 24-40 MTS DE COMP."
+    },
+    {
+        "codigo": "10079",
+        "descricao": "PESCADORES - BARCOS > 41 MTS DE COMP."
+    },
+    {
+        "codigo": "10080",
+        "descricao": "PESCADORES - LAGOS E RIOS"
+    },
+    {
+        "codigo": "10081",
+        "descricao": "PESCADORES SUBMARINOS (PROFISSIONAIS OU AMADORES)"
+    },
+    {
+        "codigo": "10082",
+        "descricao": "PILOTO DE RALLY"
+    },
+    {
+        "codigo": "10084",
+        "descricao": "POLICIAIS CIVIS, MILITARES, RODOVIARIOS, FEDERAIS, ETC"
+    },
+    {
+        "codigo": "10085",
+        "descricao": "POLICIAL REFORMADO"
+    },
+    {
+        "codigo": "10086",
+        "descricao": "PRATICANTE DE ATIVIDADES SUBAQUATICAS"
+    },
+    {
+        "codigo": "10087",
+        "descricao": "PRATICANTE OU INSTRUTOR DE ASA DELTA"
+    },
+    {
+        "codigo": "10088",
+        "descricao": "PRATICANTE OU INSTRUTOR DE PARAQUEDAS"
+    },
+    {
+        "codigo": "10089",
+        "descricao": "PRATICANTES DE MOTONAUTICA (COMPETICOES NACIONAIS)"
+    },
+    {
+        "codigo": "10090",
+        "descricao": "PRATICANTES DE RAPEL (POR PRAZER, MAIS DE 5 VEZES POR ANO)"
+    },
+    {
+        "codigo": "10091",
+        "descricao": "PRATICANTES DE RAPEL (POR PRAZER, MENOS DE 5 VEZES POR ANO)"
+    },
+    {
+        "codigo": "10092",
+        "descricao": "PRATICANTES DE TRIATLON (AMADORES E PROFISSIONAIS)"
+    },
+    {
+        "codigo": "10093",
+        "descricao": "PRODUCAO DE GUSA"
+    },
+    {
+        "codigo": "10094",
+        "descricao": "PROFIS. QUE EXECUTEM ATIVIDADES A BORDO DE BALANCINS"
+    },
+    {
+        "codigo": "10095",
+        "descricao": "DENTISTA"
+    },
+    {
+        "codigo": "10096",
+        "descricao": "PROPONENTES SEM RENDA PROPRIA"
+    },
+    {
+        "codigo": "10097",
+        "descricao": "PROVAS COM CARRO OU MOTO"
+    },
+    {
+        "codigo": "10098",
+        "descricao": "SERVICOS DE ENTREGA - EM AUTOMOVEIS E CAMINHOES"
+    },
+    {
+        "codigo": "10099",
+        "descricao": "SERVICOS DE ENTREGA - EM MOTO  (MOTOBOY)"
+    },
+    {
+        "codigo": "10100",
+        "descricao": "SOLDADORES"
+    },
+    {
+        "codigo": "10101",
+        "descricao": "SEGURANCA/VIGILANTE(EXCETO TECNICOS DE SEGURANCA NO TRABALHO)"
+    },
+    {
+        "codigo": "10102",
+        "descricao": "TELHADISTAS, ANTENISTAS, ATIVIDADES EXECUTADAS EM TELHADOS"
+    },
+    {
+        "codigo": "10104",
+        "descricao": "TRANSPORTE DE GADO"
+    },
+    {
+        "codigo": "10105",
+        "descricao": "TRANSPORTE DE MERCADORIAS NAO PERIGOSAS"
+    },
+    {
+        "codigo": "10106",
+        "descricao": "TRANSPORTE ESPACIAL"
+    },
+    {
+        "codigo": "10107",
+        "descricao": "OPERADORES DE MAQUINARIA PESADA"
+    },
+    {
+        "codigo": "10108",
+        "descricao": "MANTENEDORES DE EMISSARIOS SUBMARINOS"
+    },
+    {
+        "codigo": "10111",
+        "descricao": "BOXE"
+    },
+    {
+        "codigo": "10112",
+        "descricao": "TAEKWONDO"
+    },
+    {
+        "codigo": "10113",
+        "descricao": "JIU-JITSU JUDO (SOMENTE POR PRAZER, PROFISSIONAL E/OU COMPETICAO)"
+    },
+    {
+        "codigo": "10114",
+        "descricao": "PRATICANTE DE CORRIDAS DE CAVALO"
+    },
+    {
+        "codigo": "10115",
+        "descricao": "PRATICANTES DE HIPISMO EM CARATER PROFISSIONAL OU AMADOR"
+    },
+    {
+        "codigo": "10116",
+        "descricao": "MANIPULADOR DE SUBSTANCIAS CORROSIVAS, TOXICAS OU EXPLOSIVAS"
+    },
+    {
+        "codigo": "10119",
+        "descricao": "AGRICULTORES"
+    },
+    {
+        "codigo": "10120",
+        "descricao": "BABA/ CUIDADOR DE IDOSOS"
+    },
+    {
+        "codigo": "10121",
+        "descricao": "CICLISTA PROFISSIONAL"
+    },
+    {
+        "codigo": "10122",
+        "descricao": "CARCEREIRO"
+    },
+    {
+        "codigo": "10123",
+        "descricao": "CICLISTA AMADOR"
+    },
+    {
+        "codigo": "10124",
+        "descricao": "FAZENDEIRO"
+    },
+    {
+        "codigo": "10126",
+        "descricao": "TRAB. EM MINERACAO, EXPLOSAO DE PEDREIRAS, PERFURACOES, DEMOLICOES E IMPLOSOES"
+    },
+    {
+        "codigo": "10127",
+        "descricao": "TRANSPORTE DE PESSOAS (TAXI, ONIBUS)"
+    },
+    {
+        "codigo": "555556",
+        "descricao": "FOTOGRAFO (AEREA, MARITIMA E SUBMARINA)"
+    },
+    {
+        "codigo": "555557",
+        "descricao": "FOTOGRAFO (CORRESPONDENTE DE GUERRA)"
+    },
+    {
+        "codigo": "91540",
+        "descricao": "REPARADORES DE EQUIPAMENTOS FOTOGRAFICOS"
+    },
+    {
+        "codigo": "91910",
+        "descricao": "LUBRIFICADORES"
+    },
+    {
+        "codigo": "91920",
+        "descricao": "TRABALHADORES DE MANUTENCAO DE ROCADEIRAS, MOTOSERRAS E SIMILARES"
+    },
+    {
+        "codigo": "91930",
+        "descricao": "MECANICOS DE MANUTENCAO DE BICICLETAS E EQUIPAMENTOS ESPORTIVOS E DE GINASTICA"
+    },
+    {
+        "codigo": "95010",
+        "descricao": "SUPERVISORES DE MANUTENCAO ELETROELETRONICA INDUSTRIAL, COMERCIAL E PREDIAL"
+    },
+    {
+        "codigo": "95020",
+        "descricao": "SUPERVISORES DE MANUTENCAO ELETROELETRONICA VEICULAR"
+    },
+    {
+        "codigo": "95030",
+        "descricao": "SUPERVISORES DE MANUTENCAO ELETROMECANICA"
+    },
+    {
+        "codigo": "95110",
+        "descricao": "ELETRICISTAS DE MANUTENCAO ELETROELETRONICA"
+    },
+    {
+        "codigo": "95130",
+        "descricao": "INSTALADORES E MANTENEDORES DE SISTEMAS ELETROELETRONICOS DE SEGURANCA"
+    },
+    {
+        "codigo": "95410",
+        "descricao": "INSTALADORES E MANTENEDORES ELETROMECANICOS DE ELEVADORES, ESCADAS E PORTAS AUTOMATICAS"
+    },
+    {
+        "codigo": "95420",
+        "descricao": "REPARADORES DE APARELHOS ELETRODOMESTICOS"
+    },
+    {
+        "codigo": "95430",
+        "descricao": "REPARADORES DE EQUIPAMENTOS DE ESCRITORIO"
+    },
+    {
+        "codigo": "99110",
+        "descricao": "CONSERVADORES DE VIAS PERMANENTES (TRILHOS)"
+    },
+    {
+        "codigo": "99120",
+        "descricao": "MANTENEDORES DE EQUIPAMENTOS DE PARQUES DE DIVERSOES E SIMILARES"
+    },
+    {
+        "codigo": "99210",
+        "descricao": "TRABALHADORES ELEMENTARES DE SERVICOS DE MANUTENCAO VEICULAR"
+    },
+    {
+        "codigo": "99220",
+        "descricao": "TRABALHADORES OPERACIONAIS DE CONSERVACAO DE VIAS PERMANENTES (EXCETO TRILHOS)"
+    },
+    {
+        "codigo": "1010",
+        "descricao": "OFICIAIS GENERAIS DAS FORCAS ARMADAS"
+    },
+    {
+        "codigo": "1030",
+        "descricao": "PRACAS DAS FORCAS ARMADAS"
+    },
+    {
+        "codigo": "2010",
+        "descricao": "OFICIAIS SUPERIORES DA POLICIA MILITAR"
+    },
+    {
+        "codigo": "2020",
+        "descricao": "CAPITAES DA POLICIA MILITAR"
+    },
+    {
+        "codigo": "2030",
+        "descricao": "TENENTES DA POLICIA MILITAR"
+    },
+    {
+        "codigo": "2110",
+        "descricao": "SUBTENENTES E SARGENTOS DA POLICIA MILITAR"
+    },
+    {
+        "codigo": "2120",
+        "descricao": "CABOS E SOLDADOS DA POLICIA MILITAR"
+    },
+    {
+        "codigo": "11110",
+        "descricao": "LEGISLADORES"
+    },
+    {
+        "codigo": "11140",
+        "descricao": "DIRIGENTES DO SERVICO PUBLICO"
+    },
+    {
+        "codigo": "11150",
+        "descricao": "GESTORES PUBLICOS"
+    },
+    {
+        "codigo": "11300",
+        "descricao": "DIRIGENTES DE POVOS INDIGENAS, DE QUILOMBOLAS E CAICARAS"
+    },
+    {
+        "codigo": "11410",
+        "descricao": "DIRIGENTES DE PARTIDOS POLITICOS"
+    },
+    {
+        "codigo": "11420",
+        "descricao": "DIRIGENTES E ADMINISTRADORES DE ENTIDADES PATRONAIS E DOS TRABALHADORES E DE OUTROS INTERESSES SOCIOECONOMICOS"
+    },
+    {
+        "codigo": "11430",
+        "descricao": "DIRIGENTES E ADMINISTRADORES DE ENTIDADES RELIGIOSAS"
+    },
+    {
+        "codigo": "11440",
+        "descricao": "DIRIGENTES E ADMINISTRADORES DE ORGANIZACOES DA SOCIEDADE CIVIL SEM FINS LUCRATIVOS"
+    },
+    {
+        "codigo": "12210",
+        "descricao": "DIRETORES DE PRODUCAO E OPERACOES EM EMPRESA AGROPECUARIA, PESQUEIRA , AQUICOLA E FLORESTAL"
+    },
+    {
+        "codigo": "12230",
+        "descricao": "DIRETORES DE OPERACOES DE OBRAS EM EMPRESA DE CONSTRUCAO"
+    },
+    {
+        "codigo": "12260",
+        "descricao": "DIRETORES DE OPERACOES DE SERVICOS EM EMPRESA DE ARMAZENAMENTO, DE TRANSPORTE E DE TELECOMUNICACAO"
+    },
+    {
+        "codigo": "12270",
+        "descricao": "DIRETORES DE OPERACOES DE SERVICOS EM INSTITUICAO DE INTERMEDIACAO FINANCEIRA"
+    },
+    {
+        "codigo": "12310",
+        "descricao": "DIRETORES ADMINISTRATIVOS E FINANCEIROS"
+    },
+    {
+        "codigo": "12320",
+        "descricao": "DIRETORES DE RECURSOS HUMANOS E RELACOES DE TRABALHO"
+    },
+    {
+        "codigo": "12330",
+        "descricao": "DIRETORES DE COMERCIALIZACAO E MARKETING"
+    },
+    {
+        "codigo": "12340",
+        "descricao": "DIRETORES DE SUPRIMENTOS E AFINS"
+    },
+    {
+        "codigo": "12360",
+        "descricao": "DIRETORES DE SERVICOS DE INFORMATICA"
+    },
+    {
+        "codigo": "12370",
+        "descricao": "DIRETORES DE PESQUISA E DESENVOLVIMENTO"
+    },
+    {
+        "codigo": "12380",
+        "descricao": "DIRETORES DE MANUTENCAO"
+    },
+    {
+        "codigo": "13110",
+        "descricao": "DIRETORES E GERENTES DE OPERACOES EM EMPRESA DE SERVICOS PESSOAIS, SOCIAIS E CULTURAIS"
+    },
+    {
+        "codigo": "13120",
+        "descricao": "DIRETORES E GERENTES DE OPERACOES EM EMPRESAS E UNIDADES DE SAUDE E AFINS"
+    },
+    {
+        "codigo": "14110",
+        "descricao": "GERENTES DE PRODUCAO E OPERACOES EM EMPRESA AGROPECUARIA, PESQUEIRA, AQUICOLA E FLORESTAL"
+    },
+    {
+        "codigo": "14120",
+        "descricao": "GERENTES DE PRODUCAO E OPERACOES EM EMPRESA DA INDUSTRIA EXTRATIVA, DE TRANSFORMACAO E DE SERVICOS DE UTILIDADE PUBLICA"
+    },
+    {
+        "codigo": "14130",
+        "descricao": "GERENTES DE OBRAS EM EMPRESA DE CONSTRUCAO"
+    },
+    {
+        "codigo": "14150",
+        "descricao": "GERENTES DE OPERACOES DE SERVICOS EM EMPRESA DE TURISMO, DE ALOJAMENTO E ALIMENTACAO"
+    },
+    {
+        "codigo": "14160",
+        "descricao": "GERENTES DE OPERACOES DE SERVICOS EM EMPRESA DE TRANSPORTE, DE COMUNICACAO E DE LOGISTICA (ARMAZENAGEM E DISTRIBUICAO)"
+    },
+    {
+        "codigo": "14170",
+        "descricao": "GERENTES DE OPERACOES DE SERVICOS EM INSTITUICAO DE INTERMEDIACAO FINANCEIRA"
+    },
+    {
+        "codigo": "14210",
+        "descricao": "GERENTES ADMINISTRATIVOS, FINANCEIROS, DE RISCOS E AFINS"
+    },
+    {
+        "codigo": "14220",
+        "descricao": "GERENTES DE RECURSOS HUMANOS E DE RELACOES DO TRABALHO"
+    },
+    {
+        "codigo": "14240",
+        "descricao": "GERENTES DE SUPRIMENTOS E AFINS"
+    },
+    {
+        "codigo": "14250",
+        "descricao": "GERENTES DE TECNOLOGIA DA INFORMACAO"
+    },
+    {
+        "codigo": "14260",
+        "descricao": "GERENTES DE PESQUISA E DESENVOLVIMENTO E AFINS"
+    },
+    {
+        "codigo": "14270",
+        "descricao": "GERENTES DE MANUTENCAO E AFINS"
+    },
+    {
+        "codigo": "20110",
+        "descricao": "PROFISSIONAIS DA BIOTECNOLOGIA"
+    },
+    {
+        "codigo": "20120",
+        "descricao": "PROFISSIONAIS DA METROLOGIA"
+    },
+    {
+        "codigo": "20210",
+        "descricao": "ENGENHEIROS DE CONTROLE E AUTOMACAO, ENGENHEIROS MECATRONICOS E AFINS"
+    },
+    {
+        "codigo": "20300",
+        "descricao": "PESQUISADORES DAS CIENCIAS BIOLOGICAS"
+    },
+    {
+        "codigo": "20310",
+        "descricao": "PESQUISADORES DAS CIENCIAS NATURAIS E EXATAS"
+    },
+    {
+        "codigo": "20320",
+        "descricao": "PESQUISADORES DE ENGENHARIA E TECNOLOGIA"
+    },
+    {
+        "codigo": "20330",
+        "descricao": "PESQUISADORES DAS CIENCIAS DA SAUDE"
+    },
+    {
+        "codigo": "20340",
+        "descricao": "PESQUISADORES DAS CIENCIAS DA AGRICULTURA"
+    },
+    {
+        "codigo": "20350",
+        "descricao": "PESQUISADORES DAS CIENCIAS SOCIAIS E HUMANAS"
+    },
+    {
+        "codigo": "21220",
+        "descricao": "ENGENHEIROS EM COMPUTACAO"
+    },
+    {
+        "codigo": "21230",
+        "descricao": "ADMINISTRADORES DE TECNOLOGIA DA INFORMACAO"
+    },
+    {
+        "codigo": "21400",
+        "descricao": "ENGENHEIROS AMBIENTAIS E AFINS"
+    },
+    {
+        "codigo": "21470",
+        "descricao": "ENGENHEIROS DE MINAS E AFINS"
+    },
+    {
+        "codigo": "21480",
+        "descricao": "ENGENHEIROS AGRIMENSORES E ENGENHEIROS CARTOGRAFOS"
+    },
+    {
+        "codigo": "21520",
+        "descricao": "OFICIAIS DE MAQUINAS DA MARINHA MERCANTE"
+    },
+    {
+        "codigo": "22120",
+        "descricao": "BIOMEDICOS"
+    },
+    {
+        "codigo": "22220",
+        "descricao": "ENGENHEIROS DE ALIMENTOS E AFINS"
+    },
+    {
+        "codigo": "22390",
+        "descricao": "TERAPEUTAS OCUPACIONAIS E ORTOPTISTAS"
+    },
+    {
+        "codigo": "22410",
+        "descricao": "PROFISSIONAIS DA EDUCACAO FISICA"
+    },
+    {
+        "codigo": "22520",
+        "descricao": "MEDICOS EM ESPECIALIDADES CIRURGICAS"
+    },
+    {
+        "codigo": "22530",
+        "descricao": "MEDICOS EM MEDICINA DIAGNOSTICA E TERAPEUTICA"
+    },
+    {
+        "codigo": "22610",
+        "descricao": "OSTEOPATAS E QUIROPRAXISTAS"
+    },
+    {
+        "codigo": "22630",
+        "descricao": "PROFISSIONAIS DAS TERAPIAS CRIATIVAS,EQUOTERAPICAS E NATUROLOGICAS"
+    },
+    {
+        "codigo": "23110",
+        "descricao": "PROFESSORES DE NIVEL SUPERIOR NA EDUCACAO INFANTIL"
+    },
+    {
+        "codigo": "23130",
+        "descricao": "PROFESSORES DE NIVEL SUPERIOR NO ENSINO FUNDAMENTAL DE QUINTA A OITAVA SERIE"
+    },
+    {
+        "codigo": "23310",
+        "descricao": "PROFESSORES DO ENSINO PROFISSIONAL"
+    },
+    {
+        "codigo": "23320",
+        "descricao": "INSTRUTORES DE ENSINO PROFISSIONAL"
+    },
+    {
+        "codigo": "23420",
+        "descricao": "PROFESSORES DE CIENCIAS FISICAS, QUIMICAS E AFINS DO ENSINO SUPERIOR"
+    },
+    {
+        "codigo": "23430",
+        "descricao": "PROFESSORES DE ARQUITETURA E URBANISMO, ENGENHARIA, GEOFISICA E GEOLOGIA DO ENSINO SUPERIOR"
+    },
+    {
+        "codigo": "23440",
+        "descricao": "PROFESSORES DE CIENCIAS BIOLOGICAS E DA SAUDE DO ENSINO SUPERIOR"
+    },
+    {
+        "codigo": "23450",
+        "descricao": "PROFESSORES NA AREA DE FORMACAO PEDAGOGICA DO ENSINO SUPERIOR"
+    },
+    {
+        "codigo": "23460",
+        "descricao": "PROFESSORES NAS AREAS DE LINGUA E LITERATURA DO ENSINO SUPERIOR"
+    },
+    {
+        "codigo": "23470",
+        "descricao": "PROFESSORES DE CIENCIAS HUMANAS DO ENSINO SUPERIOR"
+    },
+    {
+        "codigo": "23480",
+        "descricao": "PROFESSORES DE CIENCIAS ECONOMICAS, ADMINISTRATIVAS E CONTABEIS DO ENSINO SUPERIOR"
+    },
+    {
+        "codigo": "23490",
+        "descricao": "PROFESSORES DE ARTES DO ENSINO SUPERIOR"
+    },
+    {
+        "codigo": "23920",
+        "descricao": "PROFESSORES DE EDUCACAO ESPECIAL"
+    },
+    {
+        "codigo": "23940",
+        "descricao": "PROGRAMADORES, AVALIADORES E ORIENTADORES DE ENSINO"
+    },
+    {
+        "codigo": "24240",
+        "descricao": "DEFENSORES PUBLICOS E PROCURADORES DA ASSISTENCIA JUDICIARIA"
+    },
+    {
+        "codigo": "24290",
+        "descricao": "PROFISSIONAIS DA INTELIGENCIA"
+    },
+    {
+        "codigo": "25140",
+        "descricao": "FILOSOFOS"
+    },
+    {
+        "codigo": "10128",
+        "descricao": "JARDINEIRO"
+    },
+    {
+        "codigo": "555555",
+        "descricao": "FOTOGRAFO (EXCETO AEREA, MARITIMA, SUBMARINA E CORRESPONDENTE DE GUERRA)"
+    },
+    {
+        "codigo": "25240",
+        "descricao": "PROFISSIONAIS DE RECURSOS HUMANOS"
+    },
+    {
+        "codigo": "25250",
+        "descricao": "PROFISSIONAIS DE ADMINISTRACAO ECONOMICO-FINANCEIRA"
+    },
+    {
+        "codigo": "25260",
+        "descricao": "PROFISSIONAIS DA ADMINISTRACAO DOS SERVICOS DE SEGURANCA"
+    },
+    {
+        "codigo": "25320",
+        "descricao": "PROFISSIONAIS DE COMERCIALIZACAO E CONSULTORIA DE SERVICOS BANCARIOS"
+    },
+    {
+        "codigo": "25330",
+        "descricao": "CORRETORES DE VALORES, ATIVOS FINANCEIROS, MERCADORIAS E DERIVATIVOS"
+    },
+    {
+        "codigo": "25410",
+        "descricao": "AUDITORES FISCAIS E TECNICOS DA RECEITA FEDERAL"
+    },
+    {
+        "codigo": "25420",
+        "descricao": "AUDITORES FISCAIS DA PREVIDENCIA SOCIAL"
+    },
+    {
+        "codigo": "25430",
+        "descricao": "AUDITORES FISCAIS DO TRABALHO"
+    },
+    {
+        "codigo": "25440",
+        "descricao": "FISCAIS DE TRIBUTOS ESTADUAIS E MUNICIPAIS"
+    },
+    {
+        "codigo": "25450",
+        "descricao": "PROFISSIONAIS DA FISCALIZACAO DE ATIVIDADES URBANAS"
+    },
+    {
+        "codigo": "26130",
+        "descricao": "ARQUIVISTAS E MUSEOLOGOS"
+    },
+    {
+        "codigo": "26150",
+        "descricao": "PROFISSIONAIS DA ESCRITA"
+    },
+    {
+        "codigo": "26160",
+        "descricao": "EDITORES"
+    },
+    {
+        "codigo": "26230",
+        "descricao": "CENOGRAFOS"
+    },
+    {
+        "codigo": "26240",
+        "descricao": "ARTISTAS VISUAIS,DESENHISTAS INDUSTRIAIS E CONSERVADORES-RESTAURADORES DE BENS CULTURAIS"
+    },
+    {
+        "codigo": "26250",
+        "descricao": "ATORES"
+    },
+    {
+        "codigo": "27110",
+        "descricao": "CHEFES DE COZINHA E AFINS"
+    },
+    {
+        "codigo": "30010",
+        "descricao": "TECNICOS EM MECATRONICA"
+    },
+    {
+        "codigo": "30030",
+        "descricao": "TECNICOS EM ELETROMECANICA"
+    },
+    {
+        "codigo": "30120",
+        "descricao": "TECNICOS DE APOIO A BIOENGENHARIA"
+    },
+    {
+        "codigo": "31130",
+        "descricao": "TECNICOS EM MATERIAIS, PRODUTOS CERAMICOS E VIDROS"
+    },
+    {
+        "codigo": "31150",
+        "descricao": "TECNICOS EM CONTROLE AMBIENTAL, UTILIDADES E TRATAMENTO DE EFLUENTES"
+    },
+    {
+        "codigo": "31160",
+        "descricao": "TECNICOS TEXTEIS"
+    },
+    {
+        "codigo": "31170",
+        "descricao": "COLORISTAS"
+    },
+    {
+        "codigo": "31210",
+        "descricao": "TECNICOS EM CONSTRUCAO CIVIL (EDIFICACOES)"
+    },
+    {
+        "codigo": "31220",
+        "descricao": "TECNICOS EM CONSTRUCAO CIVIL (OBRAS DE INFRAESTRUTURA)"
+    },
+    {
+        "codigo": "31230",
+        "descricao": "TECNICOS EM GEOMATICA"
+    },
+    {
+        "codigo": "31310",
+        "descricao": "TECNICOS EM ELETRICIDADE E ELETROTECNICA"
+    },
+    {
+        "codigo": "31330",
+        "descricao": "TECNICOS EM TELECOMUNICACOES"
+    },
+    {
+        "codigo": "31340",
+        "descricao": "TECNICOS EM CALIBRACAO E INSTRUMENTACAO"
+    },
+    {
+        "codigo": "31350",
+        "descricao": "TECNICOS EM FOTONICA"
+    },
+    {
+        "codigo": "31420",
+        "descricao": "TECNICOS MECANICOS (FERRAMENTAS)"
+    },
+    {
+        "codigo": "31430",
+        "descricao": "TECNICOS EM MECANICA VEICULAR"
+    },
+    {
+        "codigo": "31440",
+        "descricao": "TECNICOS MECANICOS NA MANUTENCAO DE MAQUINAS, SISTEMAS E INSTRUMENTOS"
+    },
+    {
+        "codigo": "31470",
+        "descricao": "TECNICOS EM SIDERURGIA"
+    },
+    {
+        "codigo": "31810",
+        "descricao": "DESENHISTAS TECNICOS DA CONSTRUCAO CIVIL E ARQUITETURA"
+    },
+    {
+        "codigo": "31830",
+        "descricao": "DESENHISTAS TECNICOS EM ELETRICIDADE, ELETRONICA, ELETROMECANICA, CALEFACAO, VENTILACAO E REFRIGERACAO"
+    },
+    {
+        "codigo": "31850",
+        "descricao": "DESENHISTAS PROJETISTAS DE CONSTRUCAO CIVIL E ARQUITETURA"
+    },
+    {
+        "codigo": "31860",
+        "descricao": "DESENHISTAS PROJETISTAS DA MECANICA"
+    },
+    {
+        "codigo": "31870",
+        "descricao": "DESENHISTAS PROJETISTAS DA ELETRONICA"
+    },
+    {
+        "codigo": "31880",
+        "descricao": "DESENHISTAS PROJETISTAS E MODELISTAS DE PRODUTOS E SERVICOS DIVERSOS"
+    },
+    {
+        "codigo": "31910",
+        "descricao": "TECNICOS DO VESTUARIO"
+    },
+    {
+        "codigo": "31920",
+        "descricao": "TECNICOS DO MOBILIARIO E AFINS"
+    },
+    {
+        "codigo": "32120",
+        "descricao": "TECNICOS FLORESTAIS"
+    },
+    {
+        "codigo": "32130",
+        "descricao": "TECNICOS EM AQUICULTURA"
+    },
+    {
+        "codigo": "32230",
+        "descricao": "TECNICOS EM OPTICA E OPTOMETRIA"
+    },
+    {
+        "codigo": "32240",
+        "descricao": "TECNICOS DE ODONTOLOGIA"
+    },
+    {
+        "codigo": "32250",
+        "descricao": "TECNICOS EM PROTESES ORTOPEDICAS"
+    },
+    {
+        "codigo": "32260",
+        "descricao": "TECNICOS DE IMOBILIZACOES ORTOPEDICAS"
+    },
+    {
+        "codigo": "32310",
+        "descricao": "TECNICOS EM PECUARIA"
+    },
+    {
+        "codigo": "32410",
+        "descricao": "TECNOLOGOS E TECNICOS EM METODOS DE DIAGNOSTICOS E TERAPEUTICA"
+    },
+    {
+        "codigo": "32420",
+        "descricao": "TECNICOS DE LABORATORIOS DE SAUDE E BANCOS DE SANGUE"
+    },
+    {
+        "codigo": "32500",
+        "descricao": "ENOLOGOS, PERFUMISTAS E AROMISTAS"
+    },
+    {
+        "codigo": "32510",
+        "descricao": "TECNICO EM FARMACIA E EM MANIPULACAO FARMACEUTICA"
+    },
+    {
+        "codigo": "32520",
+        "descricao": "TECNICOS EM PRODUCAO, CONSERVACAO E DE QUALIDADE DE ALIMENTOS"
+    },
+    {
+        "codigo": "32530",
+        "descricao": "TECNICOS DE APOIO A BIOTECNOLOGIA"
+    },
+    {
+        "codigo": "32810",
+        "descricao": "TECNICOS EM NECROPSIA E TAXIDERMISTAS"
+    },
+    {
+        "codigo": "33110",
+        "descricao": "PROFESSORES DE NIVEL MEDIO NA EDUCACAO INFANTIL"
+    },
+    {
+        "codigo": "33120",
+        "descricao": "PROFESSORES DE NIVEL MEDIO NO ENSINO FUNDAMENTAL"
+    },
+    {
+        "codigo": "33130",
+        "descricao": "PROFESSORES DE NIVEL MEDIO NO ENSINO PROFISSIONALIZANTE"
+    },
+    {
+        "codigo": "33210",
+        "descricao": "PROFESSORES LEIGOS NO ENSINO FUNDAMENTAL"
+    },
+    {
+        "codigo": "33220",
+        "descricao": "PROFESSORES PRATICOS NO ENSINO PROFISSIONALIZANTE"
+    },
+    {
+        "codigo": "33310",
+        "descricao": "INSTRUTORES E PROFESSORES DE CURSOS LIVRES"
+    },
+    {
+        "codigo": "33410",
+        "descricao": "INSPETORES DE ALUNOS E AFINS"
+    },
+    {
+        "codigo": "34110",
+        "descricao": "PILOTOS DE AVIACAO COMERCIAL, MECANICOS DE VOO E AFINS"
+    },
+    {
+        "codigo": "34130",
+        "descricao": "TECNICOS MARITIMOS E FLUVIARIOS DE MAQUINAS"
+    },
+    {
+        "codigo": "34210",
+        "descricao": "ESPECIALISTAS EM LOGISTICA DE TRANSPORTES"
+    },
+    {
+        "codigo": "34220",
+        "descricao": "DESPACHANTES ADUANEIROS"
+    },
+    {
+        "codigo": "34230",
+        "descricao": "TECNICOS EM TRANSPORTES RODOVIARIOS"
+    },
+    {
+        "codigo": "34240",
+        "descricao": "TECNICOS EM TRANSPORTES METROFERROVIARIOS"
+    },
+    {
+        "codigo": "34250",
+        "descricao": "TECNICOS EM TRANSPORTES AEREOS"
+    },
+    {
+        "codigo": "34260",
+        "descricao": "TECNICOS EM TRANSPORTES POR VIAS NAVEGAVEIS E OPERACOES PORTUARIAS"
+    },
+    {
+        "codigo": "35130",
+        "descricao": "TECNICOS EM ADMINISTRACAO"
+    },
+    {
+        "codigo": "35150",
+        "descricao": "TECNICOS EM SECRETARIADO, TAQUIGRAFOS E ESTENOTIPISTAS"
+    },
+    {
+        "codigo": "35220",
+        "descricao": "AGENTES DA SAUDE E DO MEIO AMBIENTE"
+    },
+    {
+        "codigo": "35230",
+        "descricao": "AGENTES FISCAIS METROLOGICOS E DE QUALIDADE"
+    },
+    {
+        "codigo": "35240",
+        "descricao": "PROFISSIONAIS DE DIREITOS AUTORAIS E DE AVALIACAO DE PRODUTOS DOS MEIOS DE COMUNICACAO"
+    },
+    {
+        "codigo": "35410",
+        "descricao": "ESPECIALISTAS EM PROMOCAO DE PRODUTOS E VENDAS"
+    },
+    {
+        "codigo": "35430",
+        "descricao": "ANALISTAS DE COMERCIO EXTERIOR"
+    },
+    {
+        "codigo": "35450",
+        "descricao": "CORRETORES DE SEGUROS"
+    },
+    {
+        "codigo": "37110",
+        "descricao": "TECNICOS EM BIBLIOTECONOMIA"
+    },
+    {
+        "codigo": "37120",
+        "descricao": "TECNICOS EM MUSEOLOGIA E AFINS"
+    },
+    {
+        "codigo": "37140",
+        "descricao": "RECREADORES"
+    },
+    {
+        "codigo": "37220",
+        "descricao": "OPERADORES DE REDE DE TELEPROCESSAMENTO E AFINS"
+    },
+    {
+        "codigo": "37310",
+        "descricao": "TECNICOS DE OPERACAO DE EMISSORAS DE RADIO"
+    },
+    {
+        "codigo": "37320",
+        "descricao": "TECNICOS EM OPERACAO DE SISTEMAS DE TELEVISAO E DE PRODUTORAS DE VIDEO"
+    },
+    {
+        "codigo": "37410",
+        "descricao": "TECNICOS EM AUDIO"
+    },
+    {
+        "codigo": "37420",
+        "descricao": "TECNICOS EM CENOGRAFIA"
+    },
+    {
+        "codigo": "37430",
+        "descricao": "TECNICOS EM OPERACAO DE APARELHOS DE PROJECAO"
+    },
+    {
+        "codigo": "37440",
+        "descricao": "TECNICOS EM MONTAGEM, EDICAO E FINALIZACAO DE FILME E VIDEO"
+    },
+    {
+        "codigo": "37510",
+        "descricao": "DESIGNERS DE INTERIORES, DE VITRINES E VISUAL MERCHANDISER E AFINS (NIVEL MEDIO)"
+    },
+    {
+        "codigo": "55558",
+        "descricao": "FAXINEIRO"
+    },
+    {
+        "codigo": "55559",
+        "descricao": "VISTORIADOR DE VEICULOS"
+    },
+    {
+        "codigo": "37610",
+        "descricao": "DANCARINOS TRADICIONAIS E POPULARES"
+    },
+    {
+        "codigo": "37630",
+        "descricao": "APRESENTADORES DE EVENTOS, PROGRAMAS E ESPETACULOS"
+    },
+    {
+        "codigo": "37720",
+        "descricao": "ARBITROS DESPORTIVOS"
+    },
+    {
+        "codigo": "39120",
+        "descricao": "TECNICOS DE CONTROLE DA PRODUCAO"
+    },
+    {
+        "codigo": "39510",
+        "descricao": "TECNICOS DE APOIO EM PESQUISA E DESENVOLVIMENTO"
+    },
+    {
+        "codigo": "41010",
+        "descricao": "SUPERVISORES ADMINISTRATIVOS"
+    },
+    {
+        "codigo": "41020",
+        "descricao": "SUPERVISORES DE SERVICOS FINANCEIROS, DE CAMBIO E DE CONTROLE"
+    },
+    {
+        "codigo": "41210",
+        "descricao": "OPERADORES DE EQUIPAMENTOS DE ENTRADA E TRANSMISSAO DE DADOS"
+    },
+    {
+        "codigo": "41220",
+        "descricao": "CONTINUOS"
+    },
+    {
+        "codigo": "41320",
+        "descricao": "ESCRITURARIOS DE SERVICOS BANCARIOS"
+    },
+    {
+        "codigo": "41410",
+        "descricao": "ALMOXARIFES E ARMAZENISTAS"
+    },
+    {
+        "codigo": "41420",
+        "descricao": "APONTADORES E CONFERENTES"
+    },
+    {
+        "codigo": "41520",
+        "descricao": "TRABALHADORES NOS SERVICOS DE CLASSIFICACAO E ENTREGAS DE CORRESPONDENCIAS, ENCOMENDAS E PUBLICACOES"
+    },
+    {
+        "codigo": "42010",
+        "descricao": "SUPERVISORES DE ATENDIMENTO AO PUBLICO E DE PESQUISA"
+    },
+    {
+        "codigo": "42120",
+        "descricao": "COLETADORES DE APOSTAS E DE JOGOS"
+    },
+    {
+        "codigo": "42130",
+        "descricao": "COBRADORES E AFINS"
+    },
+    {
+        "codigo": "42210",
+        "descricao": "RECEPCIONISTAS"
+    },
+    {
+        "codigo": "42220",
+        "descricao": "OPERADORES DE TELEFONIA"
+    },
+    {
+        "codigo": "42230",
+        "descricao": "OPERADORES DE TELEMARKETING"
+    },
+    {
+        "codigo": "42410",
+        "descricao": "ENTREVISTADORES E RECENSEADORES"
+    },
+    {
+        "codigo": "51010",
+        "descricao": "SUPERVISORES DOS SERVICOS DE TRANSPORTE, TURISMO, HOTELARIA E ADMINISTRACAO DE EDIFICIOS"
+    },
+    {
+        "codigo": "51020",
+        "descricao": "SUPERVISORES DE LAVANDERIA"
+    },
+    {
+        "codigo": "51120",
+        "descricao": "FISCAIS E COBRADORES DOS TRANSPORTES COLETIVOS"
+    },
+    {
+        "codigo": "51140",
+        "descricao": "GUIAS DE TURISMO"
+    },
+    {
+        "codigo": "51150",
+        "descricao": "CONDUTORES DE TURISMO"
+    },
+    {
+        "codigo": "51310",
+        "descricao": "MORDOMOS E GOVERNANTAS"
+    },
+    {
+        "codigo": "51350",
+        "descricao": "TRABALHADORES AUXILIARES NOS SERVICOS DE ALIMENTACAO"
+    },
+    {
+        "codigo": "51360",
+        "descricao": "CHURRASQUEIROS, PIZZAIOLOS E SUSHIMEN"
+    },
+    {
+        "codigo": "51410",
+        "descricao": "TRABALHADORES NOS SERVICOS DE ADMINISTRACAO DE EDIFICIOS"
+    },
+    {
+        "codigo": "51510",
+        "descricao": "TRABALHADORES EM SERVICOS DE PROMOCAO E APOIO A SAUDE"
+    },
+    {
+        "codigo": "51530",
+        "descricao": "TRABALHADORES DE ATENCAO, DEFESA E PROTECAO A PESSOAS EM SITUACAO DE RISCO E ADOLESCENTES EM CONFLITO COM A LEI"
+    },
+    {
+        "codigo": "51630",
+        "descricao": "TINTUREIROS, LAVADEIROS E AFINS, A MAQUINA"
+    },
+    {
+        "codigo": "51640",
+        "descricao": "LAVADORES E PASSADORES DE ROUPA, A MAO"
+    },
+    {
+        "codigo": "51660",
+        "descricao": "TRABALHADORES AUXILIARES DOS SERVICOS FUNERARIOS"
+    },
+    {
+        "codigo": "51670",
+        "descricao": "ASTROLOGOS E NUMEROLOGOS"
+    },
+    {
+        "codigo": "51680",
+        "descricao": "ESOTERICOS E PARANORMAIS"
+    },
+    {
+        "codigo": "51920",
+        "descricao": "TRABALHADORES DA COLETA E SELECAO DE MATERIAL RECICLAVEL"
+    },
+    {
+        "codigo": "51930",
+        "descricao": "TRABALHADORES DE SERVICOS VETERINARIOS, DE HIGIENE E ESTETICA DE ANIMAIS DOMESTICOS"
+    },
+    {
+        "codigo": "51980",
+        "descricao": "PROFISSIONAIS DO SEXO"
+    },
+    {
+        "codigo": "51990",
+        "descricao": "OUTROS TRABALHADORES DOS SERVICOS"
+    },
+    {
+        "codigo": "52010",
+        "descricao": "SUPERVISORES DE VENDAS E DE PRESTACAO DE SERVICOS"
+    },
+    {
+        "codigo": "52310",
+        "descricao": "INSTALADORES DE PRODUTOS E ACESSORIOS"
+    },
+    {
+        "codigo": "52410",
+        "descricao": "VENDEDORES EM DOMICILIO"
+    },
+    {
+        "codigo": "52430",
+        "descricao": "VENDEDORES AMBULANTES"
+    },
+    {
+        "codigo": "61210",
+        "descricao": "PRODUTORES AGRICOLAS NA CULTURA DE GRAMINEAS"
+    },
+    {
+        "codigo": "61220",
+        "descricao": "PRODUTORES AGRICOLAS NA CULTURA DE PLANTAS FIBROSAS"
+    },
+    {
+        "codigo": "61230",
+        "descricao": "PRODUTORES AGRICOLAS NA OLERICULTURA"
+    },
+    {
+        "codigo": "61240",
+        "descricao": "PRODUTORES AGRICOLAS NO CULTIVO DE FLORES E PLANTAS ORNAMENTAIS"
+    },
+    {
+        "codigo": "61250",
+        "descricao": "PRODUTORES AGRICOLAS NA FRUTICULTURA"
+    },
+    {
+        "codigo": "61260",
+        "descricao": "PRODUTORES AGRICOLAS NA CULTURA DE PLANTAS ESTIMULANTES"
+    },
+    {
+        "codigo": "61270",
+        "descricao": "PRODUTORES AGRICOLAS NA CULTURA DE PLANTAS OLEAGINOSAS"
+    },
+    {
+        "codigo": "61280",
+        "descricao": "PRODUTORES DE ESPECIARIAS E DE PLANTAS AROMATICAS E MEDICINAIS"
+    },
+    {
+        "codigo": "61310",
+        "descricao": "PRODUTORES EM PECUARIA DE ANIMAIS DE GRANDE PORTE"
+    },
+    {
+        "codigo": "61320",
+        "descricao": "PRODUTORES EM PECUARIA DE ANIMAIS DE MEDIO PORTE"
+    },
+    {
+        "codigo": "61330",
+        "descricao": "PRODUTORES DA AVICULTURA E CUNICULTURA"
+    },
+    {
+        "codigo": "61340",
+        "descricao": "PRODUTORES DE ANIMAIS E INSETOS UTEIS"
+    },
+    {
+        "codigo": "62010",
+        "descricao": "SUPERVISORES NA EXPLORACAO AGROPECUARIA"
+    },
+    {
+        "codigo": "62220",
+        "descricao": "TRABALHADORES AGRICOLAS NA CULTURA DE PLANTAS FIBROSAS"
+    },
+    {
+        "codigo": "62230",
+        "descricao": "TRABALHADORES AGRICOLAS NA OLERICULTURA"
+    },
+    {
+        "codigo": "62240",
+        "descricao": "TRABALHADORES AGRICOLAS NO CULTIVO DE FLORES E PLANTAS ORNAMENTAIS"
+    },
+    {
+        "codigo": "62250",
+        "descricao": "TRABALHADORES AGRICOLAS NA FRUTICULTURA"
+    },
+    {
+        "codigo": "62260",
+        "descricao": "TRABALHADORES AGRICOLAS NAS CULTURAS DE PLANTAS ESTIMULANTES"
+    },
+    {
+        "codigo": "62270",
+        "descricao": "TRABALHADORES AGRICOLAS NA CULTURA DE PLANTAS OLEAGINOSAS"
+    },
+    {
+        "codigo": "62280",
+        "descricao": "TRABALHADORES AGRICOLAS DA CULTURA DE ESPECIARIAS E DE PLANTAS AROMATICAS E MEDICINAIS"
+    },
+    {
+        "codigo": "62320",
+        "descricao": "TRABALHADORES NA PECUARIA DE ANIMAIS DE MEDIO PORTE"
+    },
+    {
+        "codigo": "62330",
+        "descricao": "TRABALHADORES NA AVICULTURA E CUNICULTURA"
+    },
+    {
+        "codigo": "62340",
+        "descricao": "TRABALHADORES NA CRIACAO DE INSETOS E ANIMAIS UTEIS"
+    },
+    {
+        "codigo": "63010",
+        "descricao": "SUPERVISORES NA AREA FLORESTAL E AQUICULTURA"
+    },
+    {
+        "codigo": "63130",
+        "descricao": "CRIADORES DE ANIMAIS AQUATICOS"
+    },
+    {
+        "codigo": "63200",
+        "descricao": "TRABALHADORES FLORESTAIS POLIVALENTES"
+    },
+    {
+        "codigo": "63220",
+        "descricao": "EXTRATIVISTAS FLORESTAIS DE ESPECIES PRODUTORAS DE GOMAS E RESINAS"
+    },
+    {
+        "codigo": "63230",
+        "descricao": "EXTRATIVISTAS FLORESTAIS DE ESPECIES PRODUTORAS DE FIBRAS, CERAS E OLEOS"
+    },
+    {
+        "codigo": "63240",
+        "descricao": "EXTRATIVISTAS FLORESTAIS DE ESPECIES PRODUTORAS DE ALIMENTOS SILVESTRES"
+    },
+    {
+        "codigo": "63250",
+        "descricao": "EXTRATIVISTAS FLORESTAIS DE ESPECIES PRODUTORAS DE SUBSTANCIAS AROMATICAS, MEDICINAIS E TOXICAS"
+    },
+    {
+        "codigo": "63260",
+        "descricao": "CARVOEJADORES"
+    },
+    {
+        "codigo": "64100",
+        "descricao": "TRABALHADORES DA MECANIZACAO AGRICOLA"
+    },
+    {
+        "codigo": "64200",
+        "descricao": "TRABALHADORES DA MECANIZACAO FLORESTAL"
+    },
+    {
+        "codigo": "64300",
+        "descricao": "TRABALHADORES DA IRRIGACAO E DRENAGEM"
+    },
+    {
+        "codigo": "71010",
+        "descricao": "SUPERVISORES DA EXTRACAO MINERAL"
+    },
+    {
+        "codigo": "71120",
+        "descricao": "TRABALHADORES DE EXTRACAO DE MINERAIS SOLIDOS (OPERADORES DE MAQUINAS)"
+    },
+    {
+        "codigo": "71130",
+        "descricao": "TRABALHADORES DA EXTRACAO DE MINERAIS LIQUIDOS E GASOSOS"
+    },
+    {
+        "codigo": "71220",
+        "descricao": "TRABALHADORES DE BENEFICIAMENTO DE PEDRAS ORNAMENTAIS"
+    },
+    {
+        "codigo": "71530",
+        "descricao": "MONTADORES DE ESTRUTURAS DE CONCRETO ARMADO"
+    },
+    {
+        "codigo": "71570",
+        "descricao": "APLICADORES DE MATERIAIS ISOLANTES"
+    },
+    {
+        "codigo": "71610",
+        "descricao": "REVESTIDORES DE CONCRETO"
+    },
+    {
+        "codigo": "71620",
+        "descricao": "TELHADORES (REVESTIMENTOS RIGIDOS)"
+    },
+    {
+        "codigo": "71640",
+        "descricao": "GESSEIROS"
+    },
+    {
+        "codigo": "71650",
+        "descricao": "APLICADORES DE REVESTIMENTOS CERAMICOS, PASTILHAS, PEDRAS E MADEIRAS"
+    },
+    {
+        "codigo": "9028",
+        "descricao": "AGENTES DE SEGURANCA (ARMADOS) = GUARDA COSTA"
+    },
+    {
+        "codigo": "9030",
+        "descricao": "AGENTES DE SEGURANCA (DESARMADOS) = GUARDA COSTA"
+    },
+    {
+        "codigo": "8015",
+        "descricao": "ENGENHEIRO AGRONOMO"
+    },
+    {
+        "codigo": "71660",
+        "descricao": "PINTORES DE OBRAS E REVESTIDORES DE INTERIORES (REVESTIMENTOS FLEXIVEIS)"
+    },
+    {
+        "codigo": "10129",
+        "descricao": "FRENTISTA"
+    },
+    {
+        "codigo": "71700",
+        "descricao": "AJUDANTES DE OBRAS CIVIS"
+    },
+    {
+        "codigo": "72010",
+        "descricao": "SUPERVISORES DE USINAGEM, CONFORMACAO E TRATAMENTO DE METAIS"
+    },
+    {
+        "codigo": "9264",
+        "descricao": "MESTRE DE OBRAS"
+    },
+    {
+        "codigo": "10130",
+        "descricao": "PEOES DE RODEIO, VAQUEJADA E SIMILARES AINDA QUE INSTRUTORES"
+    },
+    {
+        "codigo": "72020",
+        "descricao": "SUPERVISORES DA FABRICACAO E MONTAGEM METALMECANICA"
+    },
+    {
+        "codigo": "72110",
+        "descricao": "FERRAMENTEIROS E AFINS"
+    },
+    {
+        "codigo": "72120",
+        "descricao": "PREPARADORES E OPERADORES DE MAQUINAS-FERRAMENTA CONVENCIONAIS"
+    },
+    {
+        "codigo": "72130",
+        "descricao": "AFIADORES E POLIDORES DE METAIS"
+    },
+    {
+        "codigo": "72210",
+        "descricao": "TRABALHADORES DE FORJAMENTO DE METAIS"
+    },
+    {
+        "codigo": "72220",
+        "descricao": "TRABALHADORES DE FUNDICAO DE METAIS PUROS E DE LIGAS METALICAS"
+    },
+    {
+        "codigo": "72230",
+        "descricao": "TRABALHADORES DE MOLDAGEM DE METAIS E DE LIGAS METALICAS"
+    },
+    {
+        "codigo": "72240",
+        "descricao": "TRABALHADORES DE TREFILACAO E ESTIRAMENTO DE METAIS PUROS E LIGAS METALICAS"
+    },
+    {
+        "codigo": "72310",
+        "descricao": "TRABALHADORES DE TRATAMENTO TERMICO DE METAIS"
+    },
+    {
+        "codigo": "72320",
+        "descricao": "TRABALHADORES DE TRATAMENTO DE SUPERFICIES DE METAIS E DE COMPOSITOS (TERMOQUIMICOS)"
+    },
+    {
+        "codigo": "72330",
+        "descricao": "TRABALHADORES DA PINTURA DE EQUIPAMENTOS, VEICULOS, ESTRUTURAS METALICAS E DE COMPOSITOS"
+    },
+    {
+        "codigo": "72450",
+        "descricao": "OPERADORES DE MAQUINAS DE CONFORMACAO DE METAIS"
+    },
+    {
+        "codigo": "72460",
+        "descricao": "TRANCADORES E LACEIROS DE CABOS DE ACO"
+    },
+    {
+        "codigo": "72500",
+        "descricao": "AJUSTADORES MECANICOS POLIVALENTES"
+    },
+    {
+        "codigo": "72510",
+        "descricao": "MONTADORES DE MAQUINAS, APARELHOS E ACESSORIOS EM LINHAS DE MONTAGEM"
+    },
+    {
+        "codigo": "72520",
+        "descricao": "MONTADORES DE MAQUINAS INDUSTRIAIS"
+    },
+    {
+        "codigo": "72530",
+        "descricao": "MONTADORES DE MAQUINAS PESADAS E EQUIPAMENTOS AGRICOLAS"
+    },
+    {
+        "codigo": "72540",
+        "descricao": "MECANICOS MONTADORES DE MOTORES E TURBOALIMENTADORES"
+    },
+    {
+        "codigo": "72550",
+        "descricao": "MONTADORES DE VEICULOS AUTOMOTORES (LINHA DE MONTAGEM)"
+    },
+    {
+        "codigo": "72560",
+        "descricao": "MONTADORES DE SISTEMAS E ESTRUTURAS DE AERONAVES"
+    },
+    {
+        "codigo": "72570",
+        "descricao": "INSTALADORES DE EQUIPAMENTOS DE REFRIGERACAO E VENTILACAO"
+    },
+    {
+        "codigo": "73010",
+        "descricao": "SUPERVISORES DE MONTAGENS E INSTALACOES ELETROELETRONICAS"
+    },
+    {
+        "codigo": "73110",
+        "descricao": "MONTADORES DE EQUIPAMENTOS ELETROELETRONICOS"
+    },
+    {
+        "codigo": "73130",
+        "descricao": "INSTALADORES-REPARADORES DE LINHAS E EQUIPAMENTOS DE TELECOMUNICACOES"
+    },
+    {
+        "codigo": "74010",
+        "descricao": "SUPERVISORES DA MECANICA DE PRECISAO E INSTRUMENTOS MUSICAIS"
+    },
+    {
+        "codigo": "74110",
+        "descricao": "MECANICOS DE INSTRUMENTOS DE PRECISAO"
+    },
+    {
+        "codigo": "74210",
+        "descricao": "CONFECCIONADORES DE INSTRUMENTOS MUSICAIS"
+    },
+    {
+        "codigo": "75010",
+        "descricao": "SUPERVISORES DE JOALHERIA E AFINS"
+    },
+    {
+        "codigo": "75020",
+        "descricao": "SUPERVISORES DE VIDRARIA, CERAMICA E AFINS"
+    },
+    {
+        "codigo": "75110",
+        "descricao": "ARTESAOS DE METAIS PRECIOSOS E SEMI-PRECIOSOS"
+    },
+    {
+        "codigo": "75210",
+        "descricao": "SOPRADORES, MOLDADORES E MODELADORES DE VIDROS E AFINS"
+    },
+    {
+        "codigo": "75220",
+        "descricao": "TRABALHADORES DA TRANSFORMACAO DE VIDROS PLANOS"
+    },
+    {
+        "codigo": "75230",
+        "descricao": "CERAMISTAS (PREPARACAO E FABRICACAO)"
+    },
+    {
+        "codigo": "75240",
+        "descricao": "VIDREIROS E CERAMISTAS (ARTE E DECORACAO)"
+    },
+    {
+        "codigo": "76010",
+        "descricao": "SUPERVISORES DA INDUSTRIA TEXTIL"
+    },
+    {
+        "codigo": "76020",
+        "descricao": "SUPERVISORES NA INDUSTRIA DO CURTIMENTO"
+    },
+    {
+        "codigo": "76030",
+        "descricao": "SUPERVISORES NA CONFECCAO DO VESTUARIO"
+    },
+    {
+        "codigo": "76040",
+        "descricao": "SUPERVISORES NA CONFECCAO DE CALCADOS"
+    },
+    {
+        "codigo": "76050",
+        "descricao": "SUPERVISORES DA CONFECCAO DE ARTEFATOS DE TECIDOS, COUROS E AFINS"
+    },
+    {
+        "codigo": "76060",
+        "descricao": "SUPERVISORES DAS ARTES GRAFICAS"
+    },
+    {
+        "codigo": "76110",
+        "descricao": "TRABALHADORES DA CLASSIFICACAO DE FIBRAS TEXTEIS E LAVAGEM DE LA"
+    },
+    {
+        "codigo": "76120",
+        "descricao": "OPERADORES DA FIACAO"
+    },
+    {
+        "codigo": "76130",
+        "descricao": "OPERADORES DE TEAR E MAQUINAS SIMILARES"
+    },
+    {
+        "codigo": "76140",
+        "descricao": "TRABALHADORES DE ACABAMENTO, TINGIMENTO E ESTAMPARIA DAS INDUSTRIAS TEXTEIS"
+    },
+    {
+        "codigo": "76180",
+        "descricao": "INSPETORES E REVISORES DE PRODUCAO TEXTIL"
+    },
+    {
+        "codigo": "76200",
+        "descricao": "TRABALHADORES POLIVALENTES DO CURTIMENTO DE COUROS E PELES"
+    },
+    {
+        "codigo": "76210",
+        "descricao": "TRABALHADORES DA PREPARACAO DO CURTIMENTO DE COUROS E PELES"
+    },
+    {
+        "codigo": "76220",
+        "descricao": "TRABALHADORES DO CURTIMENTO DE COUROS E PELES"
+    },
+    {
+        "codigo": "76230",
+        "descricao": "TRABALHADORES DO ACABAMENTO DE COUROS E PELES"
+    },
+    {
+        "codigo": "76330",
+        "descricao": "OPERADORES DE MAQUINAS PARA BORDADO E ACABAMENTO DE ROUPAS"
+    },
+    {
+        "codigo": "76410",
+        "descricao": "TRABALHADORES DA PREPARACAO DA CONFECCAO DE CALCADOS"
+    },
+    {
+        "codigo": "76420",
+        "descricao": "OPERADORES DE MAQUINAS DE COSTURAR E MONTAR CALCADOS"
+    },
+    {
+        "codigo": "76430",
+        "descricao": "TRABALHADORES DE ACABAMENTO DE CALCADOS"
+    },
+    {
+        "codigo": "76500",
+        "descricao": "TRABALHADORES POLIVALENTES DA CONFECCAO DE ARTEFATOS DE TECIDOS E COUROS"
+    },
+    {
+        "codigo": "76510",
+        "descricao": "TRABALHADORES DA PREPARACAO DE ARTEFATOS DE TECIDOS, COUROS E TAPECARIA"
+    },
+    {
+        "codigo": "76520",
+        "descricao": "TRABALHADORES DA CONFECCAO DE ARTEFATOS DE TECIDOS, COUROS E SINTETICOS"
+    },
+    {
+        "codigo": "76530",
+        "descricao": "OPERADORES DE MAQUINAS NA CONFECCAO DE ARTEFATOS DE COURO"
+    },
+    {
+        "codigo": "76540",
+        "descricao": "TRABALHADORES DO ACABAMENTO DE ARTEFATOS DE TECIDOS E COUROS"
+    },
+    {
+        "codigo": "76610",
+        "descricao": "TRABALHADORES DA PRE-IMPRESSAO GRAFICA"
+    },
+    {
+        "codigo": "76620",
+        "descricao": "TRABALHADORES DA IMPRESSAO GRAFICA"
+    },
+    {
+        "codigo": "76630",
+        "descricao": "TRABALHADORES DO ACABAMENTO GRAFICO"
+    },
+    {
+        "codigo": "76640",
+        "descricao": "TRABALHADORES DE LABORATORIO FOTOGRAFICO E RADIOLOGICO"
+    },
+    {
+        "codigo": "76810",
+        "descricao": "TRABALHADORES DE TECELAGEM MANUAL, TRICO, CROCHE, RENDAS E AFINS"
+    },
+    {
+        "codigo": "76820",
+        "descricao": "TRABALHADORES ARTESANAIS DA CONFECCAO DE PECAS E TECIDOS"
+    },
+    {
+        "codigo": "76830",
+        "descricao": "TRABALHADORES ARTESANAIS DA CONFECCAO DE CALCADOS E ARTEFATOS DE COUROS E PELES"
+    },
+    {
+        "codigo": "76860",
+        "descricao": "TRABALHADORES TIPOGRAFICOS LINOTIPISTAS E AFINS"
+    },
+    {
+        "codigo": "76870",
+        "descricao": "ENCADERNADORES E RECUPERADORES DE LIVROS (PEQUENOS LOTES OU A UNIDADE)"
+    },
+    {
+        "codigo": "77010",
+        "descricao": "SUPERVISORES EM INDUSTRIA DE MADEIRA, MOBILIARIO E DA CARPINTARIA VEICULAR"
+    },
+    {
+        "codigo": "77210",
+        "descricao": "TRABALHADORES DE TRATAMENTO E PREPARACAO DA MADEIRA"
+    },
+    {
+        "codigo": "77320",
+        "descricao": "OPERADORES DE MAQUINAS DE AGLOMERACAO E PRENSAGEM DE CHAPAS"
+    },
+    {
+        "codigo": "77340",
+        "descricao": "OPERADORES DE MAQUINA DE USINAR MADEIRA (PRODUCAO EM SERIE)"
+    },
+    {
+        "codigo": "77350",
+        "descricao": "OPERADORES DE MAQUINAS DE USINAGEM DE MADEIRA CNC"
+    },
+    {
+        "codigo": "77410",
+        "descricao": "MONTADORES DE MOVEIS E ARTEFATOS DE MADEIRA"
+    },
+    {
+        "codigo": "77510",
+        "descricao": "TRABALHADORES DE ARTE E DO ACABAMENTO EM MADEIRA DO MOBILIARIO"
+    },
+    {
+        "codigo": "77640",
+        "descricao": "CONFECCIONADORES DE ARTEFATOS DE MADEIRA, MOVEIS DE VIME E AFINS"
+    },
+    {
+        "codigo": "77710",
+        "descricao": "CARPINTEIROS NAVAIS"
+    },
+    {
+        "codigo": "77720",
+        "descricao": "CARPINTEIROS DE CARROCERIAS E CARRETAS"
+    },
+    {
+        "codigo": "78010",
+        "descricao": "SUPERVISORES DE TRABALHADORES DE EMBALAGEM E ETIQUETAGEM"
+    },
+    {
+        "codigo": "78110",
+        "descricao": "CONDUTORES DE PROCESSOS ROBOTIZADOS"
+    },
+    {
+        "codigo": "78130",
+        "descricao": "OPERADORES DE VEICULOS SUBAQUATICOS CONTROLADOS REMOTAMENTE"
+    },
+    {
+        "codigo": "78210",
+        "descricao": "OPERADORES DE MAQUINAS E EQUIPAMENTOS DE ELEVACAO"
+    },
+    {
+        "codigo": "78220",
+        "descricao": "OPERADORES DE EQUIPAMENTOS DE MOVIMENTACAO DE CARGAS"
+    },
+    {
+        "codigo": "78230",
+        "descricao": "MOTORISTAS DE VEICULOS DE PEQUENO E MEDIO PORTE"
+    },
+    {
+        "codigo": "78260",
+        "descricao": "OPERADORES DE VEICULOS SOBRE TRILHOS E CABOS AEREOS"
+    },
+    {
+        "codigo": "78280",
+        "descricao": "CONDUTORES DE ANIMAIS E DE VEICULOS DE TRACAO ANIMAL E PEDAIS"
+    },
+    {
+        "codigo": "78310",
+        "descricao": "TRABALHADORES DE MANOBRAS DE TRANSPORTES SOBRE TRILHOS"
+    },
+    {
+        "codigo": "78410",
+        "descricao": "TRABALHADORES DE EMBALAGEM E DE ETIQUETAGEM"
+    },
+    {
+        "codigo": "78420",
+        "descricao": "ALIMENTADORES DE LINHAS DE PRODUCAO"
+    },
+    {
+        "codigo": "81010",
+        "descricao": "SUPERVISORES DE PRODUCAO EM INDUSTRIAS QUIMICAS, PETROQUIMICAS E AFINS"
+    },
+    {
+        "codigo": "81020",
+        "descricao": "SUPERVISORES DE PRODUCAO EM INDUSTRIAS DE TRANSFORMACAO DE PLASTICOS E BORRACHAS"
+    },
+    {
+        "codigo": "81030",
+        "descricao": "SUPERVISORES DE PRODUCAO EM INDUSTRIAS DE PRODUTOS FARMACEUTICOS, COSMETICOS E AFINS"
+    },
+    {
+        "codigo": "81110",
+        "descricao": "OPERADORES DE EQUIPAMENTOS DE MOAGEM E MISTURA DE MATERIAIS (TRATAMENTOS QUIMICOS E AFINS)"
+    },
+    {
+        "codigo": "81120",
+        "descricao": "OPERADORES DE CALCINACAO E DE TRATAMENTOS QUIMICOS DE MATERIAIS RADIOATIVOS"
+    },
+    {
+        "codigo": "81130",
+        "descricao": "OPERADORES DE EQUIPAMENTOS DE FILTRAGEM E SEPARACAO"
+    },
+    {
+        "codigo": "81140",
+        "descricao": "OPERADORES DE EQUIPAMENTOS DE DESTILACAO, EVAPORACAO E REACAO"
+    },
+    {
+        "codigo": "81150",
+        "descricao": "OPERADORES DE EQUIPAMENTOS DE PRODUCAO E REFINO DE PETROLEO E GAS"
+    },
+    {
+        "codigo": "81180",
+        "descricao": "OPERADORES DE MAQUINAS E INSTALACOES DE PRODUTOS FARMACEUTICOS, COSMETICOS E AFINS"
+    },
+    {
+        "codigo": "81810",
+        "descricao": "LABORATORISTAS INDUSTRIAIS AUXILIARES"
+    },
+    {
+        "codigo": "82010",
+        "descricao": "SUPERVISORES DE PRODUCAO EM INDUSTRIAS SIDERURGICAS"
+    },
+    {
+        "codigo": "82020",
+        "descricao": "SUPERVISORES NA FABRICACAO DE MATERIAIS PARA CONSTRUCAO (VIDROS E CERAMICAS)"
+    },
+    {
+        "codigo": "82110",
+        "descricao": "OPERADORES DE INSTALACOES DE SINTERIZACAO"
+    },
+    {
+        "codigo": "82120",
+        "descricao": "OPERADORES DE FORNOS DE PRIMEIRA FUSAO E ACIARIA"
+    },
+    {
+        "codigo": "82130",
+        "descricao": "OPERADORES DE EQUIPAMENTOS DE LAMINACAO"
+    },
+    {
+        "codigo": "82140",
+        "descricao": "OPERADORES DE EQUIPAMENTOS DE ACABAMENTO DE CHAPAS E METAIS"
+    },
+    {
+        "codigo": "82310",
+        "descricao": "OPERADORES NA PREPARACAO DE MASSAS PARA ABRASIVO, VIDRO, CERAMICA, PORCELANA E MATERIAIS DE CONSTRUCAO"
+    },
+    {
+        "codigo": "82320",
+        "descricao": "OPERADORES DE EQUIPAMENTOS DE FABRICACAO E BENEFICIAMENTO DE CRISTAIS, VIDROS, CERAMICAS, PORCELANAS, FIBRAS DE VIDRO, ABRASIVOS E AFINS"
+    },
+    {
+        "codigo": "82330",
+        "descricao": "OPERADORES DE INSTALACOES E EQUIPAMENTOS DE FABRICACAO DE MATERIAIS DE CONSTRUCAO"
+    },
+    {
+        "codigo": "82810",
+        "descricao": "TRABALHADORES DA FABRICACAO DE CERAMICA ESTRUTURAL PARA CONSTRUCAO"
+    },
+    {
+        "codigo": "83010",
+        "descricao": "SUPERVISORES DA FABRICACAO DE CELULOSE E PAPEL"
+    },
+    {
+        "codigo": "83110",
+        "descricao": "PREPARADORES DE PASTA PARA FABRICACAO DE PAPEL"
+    },
+    {
+        "codigo": "83310",
+        "descricao": "OPERADORES DE MAQUINAS NA FABRICACAO DE PRODUTOS DE PAPEL E PAPELAO"
+    },
+    {
+        "codigo": "83320",
+        "descricao": "TRABALHADORES ARTESANAIS DE PRODUTOS DE PAPEL E PAPELAO"
+    },
+    {
+        "codigo": "84010",
+        "descricao": "SUPERVISORES DA FABRICACAO DE ALIMENTOS, BEBIDAS E FUMO"
+    },
+    {
+        "codigo": "84110",
+        "descricao": "TRABALHADORES DA INDUSTRIA DE BENEFICIAMENTO DE GRAOS, CEREAIS E AFINS"
+    },
+    {
+        "codigo": "84120",
+        "descricao": "TRABALHADORES NO BENEFICIAMENTO DO SAL"
+    },
+    {
+        "codigo": "84130",
+        "descricao": "TRABALHADORES NA FABRICACAO E REFINO DE ACUCAR"
+    },
+    {
+        "codigo": "84140",
+        "descricao": "TRABALHADORES NA FABRICACAO E CONSERVACAO DE ALIMENTOS"
+    },
+    {
+        "codigo": "84150",
+        "descricao": "TRABALHADORES NA PASTEURIZACAO DO LEITE E NA FABRICACAO DE LATICINIOS E AFINS"
+    },
+    {
+        "codigo": "84160",
+        "descricao": "TRABALHADORES NA INDUSTRIALIZACAO DE CAFE, CACAU, MATE E DE PRODUTOS AFINS"
+    },
+    {
+        "codigo": "84170",
+        "descricao": "TRABALHADORES NA FABRICACAO DE CACHACA, CERVEJA, VINHOS E OUTRAS BEBIDAS"
+    },
+    {
+        "codigo": "84210",
+        "descricao": "CIGARREIROS E BENEFICIADORES DE FUMO"
+    },
+    {
+        "codigo": "84220",
+        "descricao": "CHARUTEIROS"
+    },
+    {
+        "codigo": "84810",
+        "descricao": "TRABALHADORES ARTESANAIS NA CONSERVACAO DE ALIMENTOS"
+    },
+    {
+        "codigo": "84820",
+        "descricao": "TRABALHADORES ARTESANAIS NA PASTEURIZACAO DO LEITE E NA FABRICACAO DE LATICINIOS E AFINS"
+    },
+    {
+        "codigo": "84830",
+        "descricao": "PADEIROS, CONFEITEIROS E AFINS"
+    },
+    {
+        "codigo": "84840",
+        "descricao": "TRABALHADORES NA DEGUSTACAO E CLASSIFICACAO DE GRAOS E AFINS"
+    },
+    {
+        "codigo": "86010",
+        "descricao": "SUPERVISORES DA PRODUCAO DE UTILIDADES"
+    },
+    {
+        "codigo": "86110",
+        "descricao": "OPERADORES DE INSTALACOES DE GERACAO E DISTRIBUICAO DE ENERGIA ELETRICA, HIDRAULICA, TERMICA OU NUCLEAR"
+    },
+    {
+        "codigo": "86120",
+        "descricao": "OPERADORES DE INSTALACOES DE DISTRIBUICAO DE ENERGIA ELETRICA"
+    },
+    {
+        "codigo": "86220",
+        "descricao": "OPERADORES DE INSTALACOES DE CAPTACAO, TRATAMENTO E DISTRIBUICAO DE AGUA"
+    },
+    {
+        "codigo": "86230",
+        "descricao": "OPERADORES DE INSTALACOES DE CAPTACAO E ESGOTOS"
+    },
+    {
+        "codigo": "86240",
+        "descricao": "OPERADORES DE INSTALACOES DE EXTRACAO, PROCESSAMENTO, ENVASAMENTO E DISTRIBUICAO DE GASES"
+    },
+    {
+        "codigo": "86250",
+        "descricao": "OPERADORES DE INSTALACOES DE REFRIGERACAO E AR-CONDICIONADO"
+    },
+    {
+        "codigo": "91010",
+        "descricao": "SUPERVISORES EM SERVICOS DE REPARACAO E MANUTENCAO DE MAQUINAS E EQUIPAMENTOS INDUSTRIAIS, COMERCIAIS E RESIDENCIAIS"
+    },
+    {
+        "codigo": "91090",
+        "descricao": "SUPERVISORES DE OUTROS TRABALHADORES DE SERVICOS DE REPARACAO, CONSERVACAO E MANUTENCAO"
+    },
+    {
+        "codigo": "91110",
+        "descricao": "MECANICOS DE MANUTENCAO DE BOMBAS, MOTORES, COMPRESSORES E EQUIPAMENTOS DE TRANSMISSAO"
+    },
+    {
+        "codigo": "91120",
+        "descricao": "MECANICOS DE MANUTENCAO E INSTALACAO DE APARELHOS DE CLIMATIZACAO E REFRIGERACAO"
+    },
+    {
+        "codigo": "91130",
+        "descricao": "MECANICOS DE MANUTENCAO DE MAQUINAS INDUSTRIAIS"
+    },
+    {
+        "codigo": "91310",
+        "descricao": "MECANICOS DE MANUTENCAO DE MAQUINAS PESADAS E EQUIPAMENTOS AGRICOLAS"
+    },
+    {
+        "codigo": "91420",
+        "descricao": "MECANICOS DE MANUTENCAO DE MOTORES E EQUIPAMENTOS NAVAIS"
+    },
+    {
+        "codigo": "91430",
+        "descricao": "MECANICOS DE MANUTENCAO METROFERROVIARIA"
+    },
+    {
+        "codigo": "91510",
+        "descricao": "TECNICOS EM MANUTENCAO E REPARACAO DE INSTRUMENTOS DE MEDICAO E PRECISAO"
+    },
+    {
+        "codigo": "91520",
+        "descricao": "RESTAURADORES DE INSTRUMENTOS MUSICAIS"
+    },
+    {
+        "codigo": "91530",
+        "descricao": "TECNICOS EM MANUTENCAO E REPARACAO DE EQUIPAMENTOS BIOMEDICOS"
+    },
+    {
+        "codigo": "318410",
+        "descricao": "DESENHISTA TÉCNICO/TATUADOR"
+    },
+    {
+        "codigo": "322105",
+        "descricao": "TECNICO EM ACUPUNTURA/ACUPUNTOR"
+    },
+    {
+        "codigo": "322110",
+        "descricao": "PODÓLOGO"
+    },
+    {
+        "codigo": "341105",
+        "descricao": "PILOTOS DE AVIAÇÃO COMERCIAL, MECÂNICOS DE VÔO E AFINS - EXCETO AGRÍCOLA"
+    }
+]
